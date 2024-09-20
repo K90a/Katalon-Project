@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Login</name>
+   <name>select_Tokyo CURA Healthcare Center        _5b4107</name>
    <tag></tag>
-   <elementGuidId>6ddb89d8-92d2-4f35-b1f5-d096cbbe3001</elementGuidId>
+   <elementGuidId>979ff143-3534-4576-9a13-43da460c50fd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#btn-login</value>
+         <value>#combo_facility</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-login']</value>
+         <value>//select[@id='combo_facility']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+         <value>internal:label=&quot;Facility&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,111 +28,115 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>b77d45ca-6611-43fc-bb7c-4fce5dd96e41</webElementGuid>
+      <value>select</value>
+      <webElementGuid>a75f02c9-98ae-445c-8078-c0f668d71386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>btn-login</value>
-      <webElementGuid>6eaedf31-24b5-4288-beed-403004c78963</webElementGuid>
+      <value>combo_facility</value>
+      <webElementGuid>fb4eff3e-b2ac-45b0-85ff-afbcc3cb9dab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>name</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>ee7a6697-89a3-45e2-9e43-27543b0be0d5</webElementGuid>
+      <value>facility</value>
+      <webElementGuid>445faf1f-fed4-4a98-bd49-0bfa16c350cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-default</value>
-      <webElementGuid>9a29caac-6c81-435c-9906-bc1057fa4c0b</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>bcc3947e-d060-426c-b314-7819f5ca45e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Login</value>
-      <webElementGuid>e8c1b4f6-e2d2-4890-8417-ac74df2e908d</webElementGuid>
+      <value>
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        </value>
+      <webElementGuid>f21cf60d-100a-4543-8e4e-ab7da09af211</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;btn-login&quot;)</value>
-      <webElementGuid>7b95bc33-4bb8-4d5e-8bfc-45b1f1e9ac1c</webElementGuid>
+      <value>id(&quot;combo_facility&quot;)</value>
+      <webElementGuid>a4abbe70-ac7b-4775-97f8-7316ea14dd05</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='btn-login']</value>
-      <webElementGuid>bdea2b2a-38a2-49f1-84e1-6589f7963c4a</webElementGuid>
+      <value>//select[@id='combo_facility']</value>
+      <webElementGuid>33ea518e-2b84-4520-b006-7f1def6d1822</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//section[@id='login']/div/div/div[2]/form/div[4]/div/button</value>
-      <webElementGuid>d42ffc7d-ca91-4d51-97d9-f671eb89d5d3</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div/div/select</value>
+      <webElementGuid>aec2d0a8-8512-49bc-897d-2bd1958e76bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>8b144f41-b4ed-42ea-9d09-515e0d5abc5f</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]</value>
+      <webElementGuid>f8f23fd6-96b8-44df-9538-319f2c303db2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::button[1]</value>
-      <webElementGuid>ba9777c3-4e44-41fd-8d7e-3523ea477c02</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]</value>
+      <webElementGuid>55a31afc-21b0-4d0b-a14f-42e6063297c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare Service'])[3]/preceding::button[1]</value>
-      <webElementGuid>08429096-a11f-4fae-b679-acb60c1c01fe</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='(678) 813-1KMS'])[1]/preceding::button[1]</value>
-      <webElementGuid>b80484b2-b483-4f7d-984b-78af53ca1bf7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]</value>
+      <webElementGuid>1f348c27-f907-4b7b-8647-8d4e3f6b5d75</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>4fb8c978-38fb-4438-b8f0-0292f3761035</webElementGuid>
+      <value>//select</value>
+      <webElementGuid>6ef93c2d-c034-4743-8386-6c5f0a3060a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@id = 'btn-login' and @type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>8d868016-efe9-4794-a89f-c28b4374ad1f</webElementGuid>
+      <value>//select[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]</value>
+      <webElementGuid>25b5f63f-a7e5-4c20-9e67-9e866f51be99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_CURA Healthcare_menu-toggle</name>
+   <name>label_Medicaid</name>
    <tag></tag>
-   <elementGuidId>fdd43269-5b80-4611-8c0f-1ff77aba79cd</elementGuidId>
+   <elementGuidId>7f8e58c3-5bb6-4962-9365-05d753ad181b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#menu-toggle</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='menu-toggle']</value>
+         <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot;&quot;i]</value>
+         <value>internal:text=&quot;Medicaid&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,85 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>a367c3ec-3775-4ea4-a851-34bb93c173e9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>menu-toggle</value>
-      <webElementGuid>74e2adba-0000-4024-aa6c-191640858b3a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>#</value>
-      <webElementGuid>cc038300-d57d-47ac-a094-4a4d2a5405b1</webElementGuid>
+      <value>label</value>
+      <webElementGuid>1898d71f-9c8f-4f95-96cc-42027dc1e311</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-dark btn-lg toggle</value>
-      <webElementGuid>95e21ad7-90df-4951-a6d9-ceb16ad01fa1</webElementGuid>
+      <value>radio-inline</value>
+      <webElementGuid>cbbae252-6061-4fc5-ab87-fb18dfe8aa25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                             Medicaid
+                        </value>
+      <webElementGuid>ca8c7c25-abbb-4f2e-b404-def8536237f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-toggle&quot;)</value>
-      <webElementGuid>7031dbf4-10c5-499d-99c0-e1e70a23a057</webElementGuid>
+      <value>id(&quot;appointment&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/form[@class=&quot;form-horizontal&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;col-sm-4&quot;]/label[@class=&quot;radio-inline&quot;]</value>
+      <webElementGuid>a0a7c72a-b422-471f-afdb-adde4ecdd122</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//a[@id='menu-toggle']</value>
-      <webElementGuid>cd237798-e5f1-4e51-9159-56d1a18360fa</webElementGuid>
+      <value>//section[@id='appointment']/div/div/form/div[3]/div/label[2]</value>
+      <webElementGuid>d35f0eec-ddd6-4ab7-8e45-ab365c1cffc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='CURA Healthcare'])[1]/preceding::a[2]</value>
-      <webElementGuid>f9990b06-628d-4dfd-9e60-48df369822cc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/following::label[2]</value>
+      <webElementGuid>7f9d5783-b495-4fcb-bb04-fe561430bb2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[3]</value>
-      <webElementGuid>82fa07cb-600c-4f38-b61b-05a5fbcd7e22</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Visit Date (Required)'])[1]/preceding::label[2]</value>
+      <webElementGuid>40ad96fe-0a46-4745-bafe-e07f6be364b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//a[contains(@href, '#')]</value>
-      <webElementGuid>63a8c0da-0598-4a4b-80b1-4028f85a7038</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Medicaid']/parent::*</value>
+      <webElementGuid>60a2af26-2f0e-4219-989b-9486a2cce974</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a</value>
-      <webElementGuid>ac0b84c4-2b29-436d-b035-4ea3daa6aff5</webElementGuid>
+      <value>//label[2]</value>
+      <webElementGuid>9382ed4a-b42f-44b2-9693-42f3ed3503dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@id = 'menu-toggle' and @href = '#']</value>
-      <webElementGuid>01b38879-8302-4618-9e11-ced0b21268d5</webElementGuid>
+      <value>//label[(text() = '
+                             Medicaid
+                        ' or . = '
+                             Medicaid
+                        ')]</value>
+      <webElementGuid>da1e3968-7e82-4693-b1d9-7464124f7592</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
