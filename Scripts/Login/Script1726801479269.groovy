@@ -27,29 +27,18 @@ WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/inp
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_CURA Healthcare Service/input_Password_password'), 'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'), 0)
+
 WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
-    'Hongkong CURA Healthcare Center', true)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'), 
+    0)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/label_Apply for hospital readmission'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle'))
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/label_Medicaid'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'), 0)
 
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/div_Visit Date (Required)_input-group-addon'))
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/td_25'))
-
-WebUI.setText(findTestObject('Object Repository/Page_CURA Healthcare Service/textarea_Comment_comment'), 'g')
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'), 0)
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/button_Book Appointment'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_CURA Healthcare Service/p_Hongkong CURA Healthcare Center'), 
-    'Hongkong CURA Healthcare Center')
-
-WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Go to Homepage'))
+WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/a_Logout'))
 
 WebUI.closeBrowser()
 
