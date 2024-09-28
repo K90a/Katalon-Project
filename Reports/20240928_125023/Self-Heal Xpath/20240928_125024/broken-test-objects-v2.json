@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_CURA Healthcare Service/button_Login (1)",
+      "brokenLocator": "//button[@id\u003d\u0027btn-login\u0027-has a  broken locator]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//section[@id\u003d\u0027login\u0027]/div/div/div[2]/form/div[4]/div/button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240928_125023/Self-Heal Xpath/20240928_125024/Object Repository/Page_CURA Healthcare Service/button_Login (1)_idRelative.png"
+    }
+  ]
+}

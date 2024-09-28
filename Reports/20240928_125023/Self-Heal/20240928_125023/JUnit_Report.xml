@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Self-Heal" time="45.099" tests="2" failures="0" errors="0">
+   <testsuite name="Self-Heal Xpath" tests="1" failures="0" errors="0" time="42.531" skipped="0" timestamp="28-09-2024T12:50:30" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Self-Heal Xpath">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20240928_125023\\Self-Heal Xpath\\20240928_125024"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20240928_125023\\Self-Heal Xpath\\20240928_125024\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="875d7a7565df9cc3ebf9d6f20f17c431"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Self-Heal Using Xpath" time="42.41" classname="Test Cases/Self-Heal Using Xpath" status="PASSED">
+         <system-out><![CDATA[28-09-2024T12:50:30 - [TEST_CASE][PASSED] - Test Cases/Self-Heal Using Xpath: Test Cases/Self-Heal Using Xpath
+
+28-09-2024T12:50:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-09-2024T12:50:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-09-2024T12:50:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-09-2024T12:50:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-09-2024T12:50:31 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+28-09-2024T12:50:35 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+28-09-2024T12:50:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)' is clicked on
+
+28-09-2024T12:50:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (1)' is clicked on
+
+28-09-2024T12:50:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Username_username (1)"), "John Doe"): Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username (1)'
+
+28-09-2024T12:50:37 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username (1)'
+
+28-09-2024T12:50:37 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_CURA Healthcare Service/input_Password_password (1)"), "g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM"): Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password (1)'
+
+28-09-2024T12:50:38 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password (1)'
+
+28-09-2024T12:50:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/button_Login (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/button_Login (1)' is clicked on
+
+28-09-2024T12:51:09 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //button[@id='btn-login'-has a  broken locator]'. Please recheck the objects properties to make sure the desired element is located. 
+
+28-09-2024T12:51:09 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/Page_CURA Healthcare Service/button_Login (1)'. Try using Self-healing.
+
+28-09-2024T12:51:09 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//button[@id='btn-login'-has a  broken locator]'.
+
+28-09-2024T12:51:09 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//section[@id='login']/div/div/div[2]/form/div[4]/div/button'.
+
+28-09-2024T12:51:10 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: C:/Users/Rohit Roy/git/Katalon-Project/Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/button_Login (1)_idRelative.png
+
+28-09-2024T12:51:10 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/Page_CURA Healthcare Service/button_Login (1)' was broken. Propose an alternative one: '//section[@id='login']/div/div/div[2]/form/div[4]/div/button'.
+
+28-09-2024T12:51:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login (1)' is clicked on
+
+28-09-2024T12:51:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle (1)' is clicked on
+
+28-09-2024T12:51:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_CURA Healthcare_menu-toggle (1)' is clicked on
+
+28-09-2024T12:51:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Logout (1)")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout (1)' is clicked on
+
+28-09-2024T12:51:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout (1)' is clicked on
+
+28-09-2024T12:51:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-09-2024T12:51:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-09-2024T12:50:30 - [TEST_SUITE][PASSED] - Self-Heal Xpath: Test Cases/Self-Heal Using Xpath]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Img self heal" tests="1" failures="0" errors="0" time="37.771" skipped="0" timestamp="28-09-2024T12:50:30" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Img self heal">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20240928_125023\\Img self heal\\20240928_125026"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20240928_125023\\Img self heal\\20240928_125026\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="5d61a8c729559055669abb005ae1637f"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Self heal -Img locator" time="37.661" classname="Test Cases/Self heal -Img locator" status="PASSED">
+         <system-out><![CDATA[28-09-2024T12:50:30 - [TEST_CASE][PASSED] - Test Cases/Self heal -Img locator: Test Cases/Self heal -Img locator
+
+28-09-2024T12:50:30 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+28-09-2024T12:50:30 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+28-09-2024T12:50:30 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+28-09-2024T12:50:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+28-09-2024T12:50:31 - [TEST_STEP][PASSED] - navigateToUrl("https://katalon-demo-cura.herokuapp.com/"): Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+28-09-2024T12:50:34 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+28-09-2024T12:50:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_CURA Healthcare Service/a_Make Appointment (2)")): Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (2)' is clicked on
+
+28-09-2024T12:50:35 - [MESSAGE][INFO] - Attempting to find element by its screenshot !
+
+28-09-2024T12:51:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment (2)' is clicked on
+
+28-09-2024T12:51:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+28-09-2024T12:51:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[28-09-2024T12:50:30 - [TEST_SUITE][PASSED] - Img self heal: Test Cases/Self heal -Img locator]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
