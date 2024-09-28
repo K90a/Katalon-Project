@@ -8,7 +8,7 @@
       "proposedLocator": "//section[@id\u003d\u0027login\u0027]/div/div/div[2]/form/div[4]/div/button",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_CURA Healthcare Service/button_Login (1)_idRelative.png"
+      "pathToScreenshot": "Reports/20240928_111145/Self-Heal Xpath/20240928_111146/Object Repository/Page_CURA Healthcare Service/button_Login (1)_idRelative.png"
     }
   ]
 }
