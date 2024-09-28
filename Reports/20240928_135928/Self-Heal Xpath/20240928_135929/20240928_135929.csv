@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Self-Heal Xpath,,,,28-09-2024 13:59:34,28-09-2024 13:59:35,0.619s,FAILED
+,,,,,,,
+Test Cases/Self-Heal Using Xpath,,,,28-09-2024 13:59:35,28-09-2024 13:59:35,0.017s,FAILED
+"openBrowser("""")",,,,28-09-2024 13:59:35,28-09-2024 13:59:35,0.000s,FAILED

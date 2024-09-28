@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Img self heal,Chrome 129.0.0.0,,,28-09-2024 14:02:39,28-09-2024 14:03:20,41.056s,PASSED
+,,,,,,,
+Test Cases/Self heal -Img locator,Chrome 129.0.0.0,,,28-09-2024 14:02:39,28-09-2024 14:03:20,40.944s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,28-09-2024 14:02:39,28-09-2024 14:02:41,1.745s,PASSED
+"navigateToUrl(""https://katalon-demo-cura.herokuapp.com/"")",Chrome 129.0.0.0,,,28-09-2024 14:02:41,28-09-2024 14:02:46,5.067s,PASSED
+"click(findTestObject(""Object Repository/Page_CURA Healthcare Service/a_Make Appointment (2)""))",Chrome 129.0.0.0,,,28-09-2024 14:02:46,28-09-2024 14:03:20,33.760s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,28-09-2024 14:03:20,28-09-2024 14:03:20,0.223s,PASSED

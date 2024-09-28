@@ -8,7 +8,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='btn-login'-has a  broken locator]</value>
+         <value>//section[@id='login']/div/div/div[2]/form/div[4]/div/button</value>
       </entry>
       <entry>
          <key>CSS</key>
