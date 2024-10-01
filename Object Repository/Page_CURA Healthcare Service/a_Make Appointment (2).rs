@@ -4,7 +4,7 @@
    <name>a_Make Appointment (2)</name>
    <tag></tag>
    <elementGuidId>6370bac2-1c5f-4dac-9b2b-4542b29a8265</elementGuidId>
-   <imagePath>Targets/Appointment.png</imagePath>
+   <imagePath>Screenshots/Targets/Page_CURA Healthcare Service/Appointment.png</imagePath>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -12,7 +12,7 @@
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value>Targets/Appointment.png</value>
+         <value>Screenshots/Targets/Page_CURA Healthcare Service/Appointment.png</value>
       </entry>
       <entry>
          <key>XPATH</key>
