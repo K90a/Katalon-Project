@@ -4,7 +4,7 @@
    <name>a_Make Appointment (2)</name>
    <tag></tag>
    <elementGuidId>6370bac2-1c5f-4dac-9b2b-4542b29a8265</elementGuidId>
-   <imagePath>Screenshots/Targets/Page_CURA Healthcare Service/a_Make Appointment.png</imagePath>
+   <imagePath>C:\Users\Rohit Roy\git\Katalon-Project\Screenshots\Targets\Page_CURA Healthcare Service\a_Make Appointment.png</imagePath>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -12,7 +12,7 @@
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value>Screenshots/Targets/Page_CURA Healthcare Service/a_Make Appointment.png</value>
+         <value>C:\Users\Rohit Roy\git\Katalon-Project\Screenshots\Targets\Page_CURA Healthcare Service\a_Make Appointment.png</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -31,5 +31,5 @@
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
-   <useRalativeImagePath>true</useRalativeImagePath>
+   <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>
