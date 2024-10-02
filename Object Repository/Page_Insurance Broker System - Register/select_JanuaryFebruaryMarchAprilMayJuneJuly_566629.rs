@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_JanuaryFebruaryMarchAprilMayJuneJuly_566629</name>
+   <tag></tag>
+   <elementGuidId>e8991cc8-ad91-4717-9fb6-fb3805bfa9d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#user_dateofbirth_2i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='user_dateofbirth_2i']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#user_dateofbirth_2i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0691348b-883a-47b1-b08e-dfd5aff446a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>user_dateofbirth_2i</value>
+      <webElementGuid>65f9a1ca-1108-477c-a9b8-42d18a090a4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>month</value>
+      <webElementGuid>2704ec27-8332-4ed7-8842-632bd52087e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+</value>
+      <webElementGuid>eb884214-86e3-4007-baa8-285f0ec245fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user_dateofbirth_2i&quot;)</value>
+      <webElementGuid>c90e9414-c3e9-4df3-bc6d-98d7dafbd85f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='user_dateofbirth_2i']</value>
+      <webElementGuid>a4c7ea07-f5da-49b5-9d68-c8a0889e3251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_user']/div[2]/div[3]/select[2]</value>
+      <webElementGuid>ba881794-ca72-4426-a700-4d74dcd9300a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of Birth'])[1]/following::select[2]</value>
+      <webElementGuid>0433df35-8302-4d7a-b6f0-7ece73e828e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone'])[1]/following::select[2]</value>
+      <webElementGuid>8f4bf9a8-505c-432c-8076-85dfdf6c1523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Full'])[1]/preceding::select[2]</value>
+      <webElementGuid>4f4ba7fc-45e0-49df-9f0b-4218a9f4de3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Provisional'])[1]/preceding::select[2]</value>
+      <webElementGuid>566a9750-a58c-4f02-b006-373ef0dafa20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[2]</value>
+      <webElementGuid>c566b5f2-6fc3-4d71-a069-430151b8b4dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'user_dateofbirth_2i' and @name = 'month' and (text() = '
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+' or . = '
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+')]</value>
+      <webElementGuid>47b9597c-87d7-41d2-96bb-4b64c0c95988</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
