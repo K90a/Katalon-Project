@@ -1,0 +1,16 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+telecom var,Chrome 129.0.0.0,,,02-10-2024 14:32:41,02-10-2024 14:32:57,16.228s,PASSED
+,,,,,,,
+Test Cases/telecom,Chrome 129.0.0.0,,,02-10-2024 14:32:41,02-10-2024 14:32:57,16.135s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,02-10-2024 14:32:41,02-10-2024 14:32:43,1.996s,PASSED
+"navigateToUrl(""https://demo.guru99.com/telecom/addcustomer.php"")",Chrome 129.0.0.0,,,02-10-2024 14:32:43,02-10-2024 14:32:46,3.132s,PASSED
+"click(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/label_Pending""))",Chrome 129.0.0.0,,,02-10-2024 14:32:46,02-10-2024 14:32:46,0.437s,PASSED
+"setText(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_fname""), fname)",Chrome 129.0.0.0,,,02-10-2024 14:32:46,02-10-2024 14:32:47,0.838s,PASSED
+"setText(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_lname""), lname)",Chrome 129.0.0.0,,,02-10-2024 14:32:47,02-10-2024 14:32:48,0.691s,PASSED
+"setText(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_emailid""), email)",Chrome 129.0.0.0,,,02-10-2024 14:32:48,02-10-2024 14:32:49,0.755s,PASSED
+"setText(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/textarea_Email-ID is not valid_addr""), addr)",Chrome 129.0.0.0,,,02-10-2024 14:32:49,02-10-2024 14:32:50,0.914s,PASSED
+"setText(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_telephoneno""), phone)",Chrome 129.0.0.0,,,02-10-2024 14:32:50,02-10-2024 14:32:50,0.822s,PASSED
+"click(findTestObject(""Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_submit""))",Chrome 129.0.0.0,,,02-10-2024 14:32:50,02-10-2024 14:32:52,1.224s,PASSED
+"getText(findTestObject(""Page_Guru99 telecom/custid text""))",Chrome 129.0.0.0,,,02-10-2024 14:32:52,02-10-2024 14:32:52,0.312s,PASSED
+"click(findTestObject(""Object Repository/Page_Guru99 telecom/a_Home""))",Chrome 129.0.0.0,,,02-10-2024 14:32:52,02-10-2024 14:32:56,3.646s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,02-10-2024 14:32:56,02-10-2024 14:32:57,1.166s,PASSED

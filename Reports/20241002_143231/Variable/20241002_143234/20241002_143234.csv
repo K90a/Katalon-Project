@@ -1,0 +1,31 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Variable,Chrome 129.0.0.0,,,02-10-2024 14:32:59,02-10-2024 14:33:20,20.526s,PASSED
+,,,,,,,
+Test Cases/Text form,Chrome 129.0.0.0,,,02-10-2024 14:32:59,02-10-2024 14:33:20,20.437s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,02-10-2024 14:33:00,02-10-2024 14:33:01,1.102s,PASSED
+"navigateToUrl(""https://demo.guru99.com/insurance/v1/register.php"")",Chrome 129.0.0.0,,,02-10-2024 14:33:01,02-10-2024 14:33:03,2.343s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_First name_firstname""))",Chrome 129.0.0.0,,,02-10-2024 14:33:03,02-10-2024 14:33:03,0.423s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_First name_firstname""), FirstName)",Chrome 129.0.0.0,,,02-10-2024 14:33:03,02-10-2024 14:33:04,0.773s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname""))",Chrome 129.0.0.0,,,02-10-2024 14:33:04,02-10-2024 14:33:05,0.432s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname""), LastName)",Chrome 129.0.0.0,,,02-10-2024 14:33:05,02-10-2024 14:33:05,0.731s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Phone_phone""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,02-10-2024 14:33:05,02-10-2024 14:33:06,0.436s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Phone_phone""), Phone)",Chrome 129.0.0.0,,,02-10-2024 14:33:06,02-10-2024 14:33:07,0.840s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Insurance Broker System - Register/select_193519361937193819391940194119421943_425311""), ""1945"", true)",Chrome 129.0.0.0,,,02-10-2024 14:33:07,02-10-2024 14:33:08,1.824s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Insurance Broker System - Register/select_JanuaryFebruaryMarchAprilMayJuneJuly_566629""), ""2"", true)",Chrome 129.0.0.0,,,02-10-2024 14:33:08,02-10-2024 14:33:10,1.154s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Insurance Broker System - Register/select_123456789101112131415161718192021222_566da4""), ""17"", true)",Chrome 129.0.0.0,,,02-10-2024 14:33:10,02-10-2024 14:33:11,1.446s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Date of Birth_licencetype""))",Chrome 129.0.0.0,,,02-10-2024 14:33:11,02-10-2024 14:33:11,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Street_street""))",Chrome 129.0.0.0,,,02-10-2024 14:33:11,02-10-2024 14:33:12,0.298s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Street_street""), Street)",Chrome 129.0.0.0,,,02-10-2024 14:33:12,02-10-2024 14:33:12,0.564s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_City_city""))",Chrome 129.0.0.0,,,02-10-2024 14:33:12,02-10-2024 14:33:13,0.317s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_City_city""), City)",Chrome 129.0.0.0,,,02-10-2024 14:33:13,02-10-2024 14:33:13,0.769s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_County_county""))",Chrome 129.0.0.0,,,02-10-2024 14:33:13,02-10-2024 14:33:14,0.363s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_County_county""), County)",Chrome 129.0.0.0,,,02-10-2024 14:33:14,02-10-2024 14:33:14,0.700s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code""))",Chrome 129.0.0.0,,,02-10-2024 14:33:14,02-10-2024 14:33:15,0.385s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code""), PostCode)",Chrome 129.0.0.0,,,02-10-2024 14:33:15,02-10-2024 14:33:16,0.756s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Email_email""), email)",Chrome 129.0.0.0,,,02-10-2024 14:33:16,02-10-2024 14:33:16,0.661s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Password_password""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,02-10-2024 14:33:16,02-10-2024 14:33:17,0.363s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Password_password""), password)",Chrome 129.0.0.0,,,02-10-2024 14:33:17,02-10-2024 14:33:17,0.778s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,02-10-2024 14:33:17,02-10-2024 14:33:18,0.333s,PASSED
+"setText(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password""), confrim)",Chrome 129.0.0.0,,,02-10-2024 14:33:18,02-10-2024 14:33:18,0.641s,PASSED
+"click(findTestObject(""Object Repository/Page_Insurance Broker System - Register/input_Confirm password_submit""))",Chrome 129.0.0.0,,,02-10-2024 14:33:18,02-10-2024 14:33:20,1.223s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,02-10-2024 14:33:20,02-10-2024 14:33:20,0.127s,PASSED

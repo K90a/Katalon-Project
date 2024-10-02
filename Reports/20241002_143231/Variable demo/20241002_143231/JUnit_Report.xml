@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Variable demo" time="44.913" tests="2" failures="0" errors="0">
+   <testsuite name="telecom var" tests="1" failures="0" errors="0" time="16.228" skipped="0" timestamp="02-10-2024T14:32:41" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/telecom var">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241002_143231\\telecom var\\20241002_143232"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241002_143231\\telecom var\\20241002_143232\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="68980762249a92e8ad17f44ed55a733a"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/telecom" time="16.135" classname="Test Cases/telecom" status="PASSED">
+         <system-out><![CDATA[02-10-2024T14:32:41 - [TEST_CASE][PASSED] - Test Cases/telecom: Test Cases/telecom
+
+02-10-2024T14:32:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-10-2024T14:32:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-10-2024T14:32:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-10-2024T14:32:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-10-2024T14:32:43 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/telecom/addcustomer.php"): Navigate to 'https://demo.guru99.com/telecom/addcustomer.php' successfully
+
+02-10-2024T14:32:46 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/telecom/addcustomer.php' successfully
+
+02-10-2024T14:32:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/label_Pending")): Object: 'Object Repository/Page_Guru99 Telecom Add Customer/label_Pending' is clicked on
+
+02-10-2024T14:32:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Guru99 Telecom Add Customer/label_Pending' is clicked on
+
+02-10-2024T14:32:46 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_fname"), fname): Text 'kajool' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_fname'
+
+02-10-2024T14:32:47 - [MESSAGE][PASSED] - Text 'kajool' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_fname'
+
+02-10-2024T14:32:47 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_lname"), lname): Text 'dey' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_lname'
+
+02-10-2024T14:32:48 - [MESSAGE][PASSED] - Text 'dey' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_lname'
+
+02-10-2024T14:32:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_emailid"), email): Text 'joiniiks@gmail.com' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_emailid'
+
+02-10-2024T14:32:49 - [MESSAGE][PASSED] - Text 'joiniiks@gmail.com' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Billing address_emailid'
+
+02-10-2024T14:32:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/textarea_Email-ID is not valid_addr"), addr): Text 'fvfv' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/textarea_Email-ID is not valid_addr'
+
+02-10-2024T14:32:50 - [MESSAGE][PASSED] - Text 'fvfv' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/textarea_Email-ID is not valid_addr'
+
+02-10-2024T14:32:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_telephoneno"), phone): Text '75563026126216' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_telephoneno'
+
+02-10-2024T14:32:50 - [MESSAGE][PASSED] - Text '75563026126216' is set on object 'Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_telephoneno'
+
+02-10-2024T14:32:50 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_submit")): Object: 'Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_submit' is clicked on
+
+02-10-2024T14:32:52 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Guru99 Telecom Add Customer/input_Email-ID is not valid_submit' is clicked on
+
+02-10-2024T14:32:52 - [TEST_STEP][PASSED] - getText(findTestObject("Page_Guru99 telecom/custid text")): Text of object 'Object Repository/Page_Guru99 telecom/custid text' is: '844986'
+
+02-10-2024T14:32:52 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Guru99 telecom/custid text' is: '844986'
+
+02-10-2024T14:32:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Guru99 telecom/a_Home")): Object: 'Object Repository/Page_Guru99 telecom/a_Home' is clicked on
+
+02-10-2024T14:32:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Guru99 telecom/a_Home' is clicked on
+
+02-10-2024T14:32:56 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-10-2024T14:32:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-10-2024T14:32:41 - [TEST_SUITE][PASSED] - telecom var: Test Cases/telecom]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+   <testsuite name="Variable" tests="1" failures="0" errors="0" time="20.526" skipped="0" timestamp="02-10-2024T14:32:59" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Variable">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241002_143231\\Variable\\20241002_143234"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241002_143231\\Variable\\20241002_143234\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="d85a5b74e264fba7c68061b0835557f4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Text form" time="20.437" classname="Test Cases/Text form" status="PASSED">
+         <system-out><![CDATA[02-10-2024T14:32:59 - [TEST_CASE][PASSED] - Test Cases/Text form: Test Cases/Text form
+
+02-10-2024T14:33:00 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+02-10-2024T14:33:00 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+02-10-2024T14:33:00 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+02-10-2024T14:33:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+02-10-2024T14:33:01 - [TEST_STEP][PASSED] - navigateToUrl("https://demo.guru99.com/insurance/v1/register.php"): Navigate to 'https://demo.guru99.com/insurance/v1/register.php' successfully
+
+02-10-2024T14:33:03 - [MESSAGE][PASSED] - Navigate to 'https://demo.guru99.com/insurance/v1/register.php' successfully
+
+02-10-2024T14:33:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_First name_firstname")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_First name_firstname' is clicked on
+
+02-10-2024T14:33:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_First name_firstname' is clicked on
+
+02-10-2024T14:33:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_First name_firstname"), FirstName): Text 'Rohit' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_First name_firstname'
+
+02-10-2024T14:33:04 - [MESSAGE][PASSED] - Text 'Rohit' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_First name_firstname'
+
+02-10-2024T14:33:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname' is clicked on
+
+02-10-2024T14:33:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname' is clicked on
+
+02-10-2024T14:33:05 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname"), LastName): Text 'Roy' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname'
+
+02-10-2024T14:33:05 - [MESSAGE][PASSED] - Text 'Roy' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Surname_lastname'
+
+02-10-2024T14:33:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Phone_phone"), STOP_ON_FAILURE): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Phone_phone' is clicked on
+
+02-10-2024T14:33:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Phone_phone' is clicked on
+
+02-10-2024T14:33:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Phone_phone"), Phone): Text '87598955858' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Phone_phone'
+
+02-10-2024T14:33:07 - [MESSAGE][PASSED] - Text '87598955858' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Phone_phone'
+
+02-10-2024T14:33:07 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Insurance Broker System - Register/select_193519361937193819391940194119421943_425311"), "1945", true): All options with value '1945' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_193519361937193819391940194119421943_425311'  using regular expression
+
+02-10-2024T14:33:08 - [MESSAGE][PASSED] - All options with value '1945' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_193519361937193819391940194119421943_425311'  using regular expression
+
+02-10-2024T14:33:08 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Insurance Broker System - Register/select_JanuaryFebruaryMarchAprilMayJuneJuly_566629"), "2", true): All options with value '2' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_JanuaryFebruaryMarchAprilMayJuneJuly_566629'  using regular expression
+
+02-10-2024T14:33:10 - [MESSAGE][PASSED] - All options with value '2' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_JanuaryFebruaryMarchAprilMayJuneJuly_566629'  using regular expression
+
+02-10-2024T14:33:10 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Insurance Broker System - Register/select_123456789101112131415161718192021222_566da4"), "17", true): All options with value '17' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_123456789101112131415161718192021222_566da4'  using regular expression
+
+02-10-2024T14:33:11 - [MESSAGE][PASSED] - All options with value '17' are selected in object 'Object Repository/Page_Insurance Broker System - Register/select_123456789101112131415161718192021222_566da4'  using regular expression
+
+02-10-2024T14:33:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Date of Birth_licencetype")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Date of Birth_licencetype' is clicked on
+
+02-10-2024T14:33:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Date of Birth_licencetype' is clicked on
+
+02-10-2024T14:33:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Street_street")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Street_street' is clicked on
+
+02-10-2024T14:33:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Street_street' is clicked on
+
+02-10-2024T14:33:12 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Street_street"), Street): Text 'tyyd' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Street_street'
+
+02-10-2024T14:33:12 - [MESSAGE][PASSED] - Text 'tyyd' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Street_street'
+
+02-10-2024T14:33:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_City_city")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_City_city' is clicked on
+
+02-10-2024T14:33:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_City_city' is clicked on
+
+02-10-2024T14:33:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_City_city"), City): Text 'sdd' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_City_city'
+
+02-10-2024T14:33:13 - [MESSAGE][PASSED] - Text 'sdd' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_City_city'
+
+02-10-2024T14:33:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_County_county")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_County_county' is clicked on
+
+02-10-2024T14:33:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_County_county' is clicked on
+
+02-10-2024T14:33:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_County_county"), County): Text 'fsdf' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_County_county'
+
+02-10-2024T14:33:14 - [MESSAGE][PASSED] - Text 'fsdf' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_County_county'
+
+02-10-2024T14:33:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code' is clicked on
+
+02-10-2024T14:33:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code' is clicked on
+
+02-10-2024T14:33:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code"), PostCode): Text '1258' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code'
+
+02-10-2024T14:33:16 - [MESSAGE][PASSED] - Text '1258' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Post code_post_code'
+
+02-10-2024T14:33:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Email_email"), email): Text 'acv@gmail.com' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Email_email'
+
+02-10-2024T14:33:16 - [MESSAGE][PASSED] - Text 'acv@gmail.com' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Email_email'
+
+02-10-2024T14:33:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Password_password"), STOP_ON_FAILURE): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Password_password' is clicked on
+
+02-10-2024T14:33:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Password_password' is clicked on
+
+02-10-2024T14:33:17 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Password_password"), password): Text '123456' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Password_password'
+
+02-10-2024T14:33:17 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Password_password'
+
+02-10-2024T14:33:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password"), STOP_ON_FAILURE): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password' is clicked on
+
+02-10-2024T14:33:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password' is clicked on
+
+02-10-2024T14:33:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password"), confrim): Text '123456' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password'
+
+02-10-2024T14:33:18 - [MESSAGE][PASSED] - Text '123456' is set on object 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_c_password'
+
+02-10-2024T14:33:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Insurance Broker System - Register/input_Confirm password_submit")): Object: 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_submit' is clicked on
+
+02-10-2024T14:33:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Insurance Broker System - Register/input_Confirm password_submit' is clicked on
+
+02-10-2024T14:33:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+02-10-2024T14:33:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[02-10-2024T14:32:59 - [TEST_SUITE][PASSED] - Variable: Test Cases/Text form]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
