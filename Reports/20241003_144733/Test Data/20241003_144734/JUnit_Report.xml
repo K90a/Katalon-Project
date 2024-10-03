@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Data" time="38.774" tests="3" failures="0" errors="0">
+   <testsuite name="Test Data" tests="3" failures="0" errors="0" time="38.774" skipped="0" timestamp="03-10-2024T14:47:36" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Test Data">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_144733\\Test Data\\20241003_144734"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_144733\\Test Data\\20241003_144734\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="f3bc569fe46be79f580d8fffe98fdd51"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Find a Place" time="12.244" classname="Test Cases/Find a Place" status="PASSED">
+         <system-out><![CDATA[03-10-2024T14:47:37 - [TEST_CASE][PASSED] - Test Cases/Find a Place: Test Cases/Find a Place
+
+03-10-2024T14:47:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-10-2024T14:47:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-10-2024T14:47:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-10-2024T14:47:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-10-2024T14:47:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.airbnb.co.in/"): Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:47:39 - [MESSAGE][PASSED] - Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:47:39 - [TEST_STEP][PASSED] - click(findTestObject("Page_Airbnb search/input_Where_query")): Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:47:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:47:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Airbnb search/input_Where_query"), City): Text 'Kolkata' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:47:43 - [MESSAGE][PASSED] - Text 'Kolkata' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:47:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/div_Check in")): Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:47:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:47:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/label_3 days3 days")): Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:47:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:47:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9")): Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:47:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:47:45 - [TEST_STEP][PASSED] - verifyTextPresent(ExpectedResult, false): Text 'Over 1,000 places in Kolkata' is present on page 
+
+03-10-2024T14:47:49 - [MESSAGE][PASSED] - Text 'Over 1,000 places in Kolkata' is present on page 
+
+03-10-2024T14:47:49 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-10-2024T14:47:49 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Find a Place" time="13.026" classname="Test Cases/Find a Place" status="PASSED">
+         <system-out><![CDATA[03-10-2024T14:47:49 - [TEST_CASE][PASSED] - Test Cases/Find a Place: Test Cases/Find a Place
+
+03-10-2024T14:47:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-10-2024T14:47:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-10-2024T14:47:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-10-2024T14:47:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-10-2024T14:47:50 - [TEST_STEP][PASSED] - navigateToUrl("https://www.airbnb.co.in/"): Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:47:51 - [MESSAGE][PASSED] - Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:47:51 - [TEST_STEP][PASSED] - click(findTestObject("Page_Airbnb search/input_Where_query")): Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:47:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:47:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Airbnb search/input_Where_query"), City): Text 'Mumbai' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:47:56 - [MESSAGE][PASSED] - Text 'Mumbai' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:47:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/div_Check in")): Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:47:57 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:47:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/label_3 days3 days")): Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:47:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:47:58 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9")): Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:47:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:47:59 - [TEST_STEP][PASSED] - verifyTextPresent(ExpectedResult, false): Text 'Over 1,000 places in Mumbai' is present on page 
+
+03-10-2024T14:48:02 - [MESSAGE][PASSED] - Text 'Over 1,000 places in Mumbai' is present on page 
+
+03-10-2024T14:48:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-10-2024T14:48:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Find a Place" time="13.279" classname="Test Cases/Find a Place" status="PASSED">
+         <system-out><![CDATA[03-10-2024T14:48:02 - [TEST_CASE][PASSED] - Test Cases/Find a Place: Test Cases/Find a Place
+
+03-10-2024T14:48:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-10-2024T14:48:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-10-2024T14:48:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-10-2024T14:48:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-10-2024T14:48:03 - [TEST_STEP][PASSED] - navigateToUrl("https://www.airbnb.co.in/"): Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:48:04 - [MESSAGE][PASSED] - Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T14:48:04 - [TEST_STEP][PASSED] - click(findTestObject("Page_Airbnb search/input_Where_query")): Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:48:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/input_Where_query' is clicked on
+
+03-10-2024T14:48:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Airbnb search/input_Where_query"), City): Text 'Punjab' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:48:07 - [MESSAGE][PASSED] - Text 'Punjab' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T14:48:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/div_Check in")): Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:48:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T14:48:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/label_3 days3 days")): Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T14:48:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9")): Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:48:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T14:48:10 - [TEST_STEP][PASSED] - verifyTextPresent(ExpectedResult, false): Text 'Over 1,000 places in Punjab' is present on page 
+
+03-10-2024T14:48:14 - [MESSAGE][PASSED] - Text 'Over 1,000 places in Punjab' is present on page 
+
+03-10-2024T14:48:14 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-10-2024T14:48:15 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-10-2024T14:47:36 - [TEST_SUITE][PASSED] - Test Data: Test Cases/Find a Place]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
