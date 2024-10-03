@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Find a Place</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66566dcd-093d-463c-b772-be2eb985ae93</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc5eb321-157a-4ff5-88cf-c135c7c05314</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6870c9e9-9909-4292-b993-0c912471da2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kolkata'</defaultValue>
+      <description></description>
+      <id>bc5eb321-157a-4ff5-88cf-c135c7c05314</id>
+      <masked>false</masked>
+      <name>City</name>
+   </variable>
+   <variable>
+      <defaultValue>'Over 1,000 places in Kolkata'</defaultValue>
+      <description></description>
+      <id>6870c9e9-9909-4292-b993-0c912471da2f</id>
+      <masked>false</masked>
+      <name>ExpectedResult</name>
+   </variable>
+</TestCaseEntity>

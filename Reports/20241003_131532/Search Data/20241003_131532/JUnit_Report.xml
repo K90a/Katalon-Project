@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Search Data" time="12.537" tests="1" failures="0" errors="0">
+   <testsuite name="Search Data" tests="1" failures="0" errors="0" time="12.537" skipped="0" timestamp="03-10-2024T13:15:33" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Search Data">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_131532\\Search Data\\20241003_131532"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_131532\\Search Data\\20241003_131532\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="ad7fe16c133f4c246d59c494c81536ba"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Find a Place" time="12.454" classname="Test Cases/Find a Place" status="PASSED">
+         <system-out><![CDATA[03-10-2024T13:15:33 - [TEST_CASE][PASSED] - Test Cases/Find a Place: Test Cases/Find a Place
+
+03-10-2024T13:15:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-10-2024T13:15:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-10-2024T13:15:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-10-2024T13:15:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-10-2024T13:15:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.airbnb.co.in/"): Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T13:15:36 - [MESSAGE][PASSED] - Navigate to 'https://www.airbnb.co.in/' successfully
+
+03-10-2024T13:15:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Airbnb search/input_Where_query"), City): Text 'Kolkata' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T13:15:39 - [MESSAGE][PASSED] - Text 'Kolkata' is set on object 'Object Repository/Page_Airbnb search/input_Where_query'
+
+03-10-2024T13:15:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/div_Check in")): Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T13:15:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/div_Check in' is clicked on
+
+03-10-2024T13:15:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/label_3 days3 days")): Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T13:15:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/label_3 days3 days' is clicked on
+
+03-10-2024T13:15:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9")): Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T13:15:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9' is clicked on
+
+03-10-2024T13:15:42 - [TEST_STEP][PASSED] - verifyTextPresent(ExpectedResult, false): Text 'Over 1,000 places in Kolkata' is present on page 
+
+03-10-2024T13:15:46 - [MESSAGE][PASSED] - Text 'Over 1,000 places in Kolkata' is present on page 
+
+03-10-2024T13:15:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-10-2024T13:15:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-10-2024T13:15:33 - [TEST_SUITE][PASSED] - Search Data: Test Cases/Find a Place]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

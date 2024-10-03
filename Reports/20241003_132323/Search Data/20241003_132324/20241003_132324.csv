@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Data,Chrome 129.0.0.0,,,03-10-2024 13:23:26,03-10-2024 13:24:05,38.686s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:23:26,03-10-2024 13:23:42,15.265s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:23:26,03-10-2024 13:23:28,1.314s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:23:28,03-10-2024 13:23:30,2.592s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:23:30,03-10-2024 13:23:35,4.570s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:23:35,03-10-2024 13:23:36,1.254s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:23:36,03-10-2024 13:23:37,0.579s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:23:37,03-10-2024 13:23:38,1.065s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:23:38,03-10-2024 13:23:41,3.607s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:23:41,03-10-2024 13:23:42,0.150s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:23:42,03-10-2024 13:23:54,11.892s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:23:42,03-10-2024 13:23:42,0.715s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:23:42,03-10-2024 13:23:44,1.759s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:23:44,03-10-2024 13:23:47,3.243s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:23:47,03-10-2024 13:23:49,1.322s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:23:49,03-10-2024 13:23:50,0.843s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:23:50,03-10-2024 13:23:50,0.690s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:23:50,03-10-2024 13:23:53,3.174s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:23:53,03-10-2024 13:23:54,0.105s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:23:54,03-10-2024 13:24:05,11.378s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:23:54,03-10-2024 13:23:54,0.631s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:23:54,03-10-2024 13:23:55,1.030s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:23:55,03-10-2024 13:23:59,3.405s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:23:59,03-10-2024 13:24:00,1.385s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:24:00,03-10-2024 13:24:01,0.594s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:24:01,03-10-2024 13:24:02,1.061s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:24:02,03-10-2024 13:24:05,3.126s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:24:05,03-10-2024 13:24:05,0.126s,PASSED

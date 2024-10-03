@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3 days</name>
+   <tag></tag>
+   <elementGuidId>eff0e43b-a8ad-4a0f-b262-87eb5d8833af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='micro-flex-chips-']/div/label[4]/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;3 days&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0496c4a5-8903-49cf-a5fe-e3132c4164f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d0aa0434-4825-48a4-884a-f9ff8c8b6e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 days</value>
+      <webElementGuid>6079a448-f284-4cc1-83b7-fc946360eec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;micro-flex-chips-&quot;)/div[@class=&quot;h1hdfvnt atm_p9_glywfm atm_9s_glywfm_14pyf7n c1wlfnvs atm_l8_19czkgp atm_l0_1wugsn5 atm_vv_1q9ccgz atm_9s_1txwivl atm_cx_19bvopo dir dir-ltr&quot;]/label[@class=&quot;c1ef8kub atm_9j_tlke0l atm_r3_1h6ojuz atm_3f_uuagnh atm_l8_idpfg4 atm_gi_idpfg4 atm_2d_1qwqy05 atm_4b_rke8ap atm_7l_jt7fhx atm_bx_48h72j atm_mk_h2mmj6 atm_uq_17liqq3 atm_ui_1bljbuh atm_uv_xoomkg atm_kd_glywfm atm_lo_evh4rp atm_le_evh4rp atm_j6_1vi7ecw atm_5j_qe0vi4 atm_c8_1uc0753 atm_g3_lonqig atm_fr_r7vles atm_lk_dlk8xv atm_ll_dlk8xv atm_7l_177r58q_1nos8r_uv4tnr atm_4b_lb1gtz_1nos8r_uv4tnr atm_7l_177r58q_csw3t1 atm_4b_lb1gtz_csw3t1 atm_tr_ybgkrq_csw3t1 atm_3f_glywfm_jo46a5 atm_l8_idpfg4_jo46a5 atm_gi_idpfg4_jo46a5 atm_3f_glywfm_1icshfk atm_kd_glywfm_19774hq atm_uc_aaiy6o_1w3cfyq atm_70_15w7q17_1w3cfyq atm_uc_glywfm_1w3cfyq_1rrf6b5 atm_uc_aaiy6o_pfnrn2_1oszvuo atm_70_15w7q17_pfnrn2_1oszvuo atm_uc_glywfm_pfnrn2_1o31aam atm_uc_aaiy6o_1s76pf2 atm_70_15w7q17_1s76pf2 atm_uc_glywfm_1s76pf2_1rrf6b5 atm_uc_aaiy6o_1y5fnfe_1oszvuo atm_70_15w7q17_1y5fnfe_1oszvuo atm_uc_glywfm_1y5fnfe_1o31aam c1s1ko7x cg3b11m atm_9s_116y0ak atm_h_1h6ojuz dir dir-ltr&quot;]/span[@class=&quot;mp7a7yt atm_9s_1ulexfb dir dir-ltr&quot;]/span[1]</value>
+      <webElementGuid>fdd737ba-d5f8-4402-8836-e58eeac77a82</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='micro-flex-chips-']/div/label[4]/span[2]/span</value>
+      <webElementGuid>e4f8364a-c3e5-437e-af21-7b53d6616241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±2 days'])[1]/following::span[3]</value>
+      <webElementGuid>431e1bcc-3d8d-4589-80bb-5589ac1d2f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±1 day'])[1]/following::span[7]</value>
+      <webElementGuid>5c01cf8e-b9ad-4831-a950-7351e38c9c3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±3 days'])[1]/preceding::span[1]</value>
+      <webElementGuid>1cf9c165-01c2-4595-8867-16f3fd50456b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='±7 days'])[1]/preceding::span[4]</value>
+      <webElementGuid>964fd7c3-a1cf-4946-9478-3559f16d4622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3 days']/parent::*</value>
+      <webElementGuid>fa320e6c-8d0f-4a88-83ab-07f885044e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/span[2]/span</value>
+      <webElementGuid>aff815be-6c71-4cea-a309-619cfe3929be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '3 days' or . = '3 days')]</value>
+      <webElementGuid>e109c120-d530-4364-8c64-1a79b353c69c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

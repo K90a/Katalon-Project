@@ -1,0 +1,3 @@
+{"testCaseName":"Test Cases/Find a Place","testCaseId":"Test Cases/Find a Place","iterationVariableName":"","bindedValues":{"ExpectedResult":"\u0027Over 1,000 places in Kolkata\u0027","City":"\u0027Kolkata\u0027"}}
+{"testCaseName":"Test Cases/Find a Place","testCaseId":"Test Cases/Find a Place","iterationVariableName":"","bindedValues":{"ExpectedResult":"\u0027Over 1,000 places in Punjab\u0027","City":"\u0027Punjab\u0027"}}
+{"testCaseName":"Test Cases/Find a Place","testCaseId":"Test Cases/Find a Place","iterationVariableName":"","bindedValues":{"ExpectedResult":"\u0027Over 1,000 places in Mumbai\u0027","City":"\u0027Mumbai\u0027"}}
