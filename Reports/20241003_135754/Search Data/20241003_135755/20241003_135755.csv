@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Search Data,Chrome 129.0.0.0,,,03-10-2024 13:57:57,03-10-2024 13:58:34,37.287s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:57:57,03-10-2024 13:58:10,12.330s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:57:57,03-10-2024 13:57:59,1.342s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:57:59,03-10-2024 13:58:00,0.974s,PASSED
+"click(findTestObject(""Page_Airbnb search/input_Where_query""))",Chrome 129.0.0.0,,,03-10-2024 13:58:00,03-10-2024 13:58:03,2.881s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:58:03,03-10-2024 13:58:04,1.088s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:58:04,03-10-2024 13:58:05,1.069s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:58:05,03-10-2024 13:58:05,0.545s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:58:05,03-10-2024 13:58:06,1.001s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:58:06,03-10-2024 13:58:09,3.181s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:58:09,03-10-2024 13:58:10,0.112s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:58:10,03-10-2024 13:58:21,11.007s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:58:10,03-10-2024 13:58:10,0.528s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:58:10,03-10-2024 13:58:11,0.945s,PASSED
+"click(findTestObject(""Page_Airbnb search/input_Where_query""))",Chrome 129.0.0.0,,,03-10-2024 13:58:11,03-10-2024 13:58:14,2.522s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:58:14,03-10-2024 13:58:15,1.014s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:58:15,03-10-2024 13:58:16,1.107s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:58:16,03-10-2024 13:58:17,0.757s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:58:17,03-10-2024 13:58:17,0.665s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:58:17,03-10-2024 13:58:20,3.302s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:58:20,03-10-2024 13:58:21,0.142s,PASSED
+,,,,,,,
+Test Cases/Find a Place,Chrome 129.0.0.0,,,03-10-2024 13:58:21,03-10-2024 13:58:34,13.741s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,03-10-2024 13:58:21,03-10-2024 13:58:21,0.762s,PASSED
+"navigateToUrl(""https://www.airbnb.co.in/"")",Chrome 129.0.0.0,,,03-10-2024 13:58:21,03-10-2024 13:58:23,1.441s,PASSED
+"click(findTestObject(""Page_Airbnb search/input_Where_query""))",Chrome 129.0.0.0,,,03-10-2024 13:58:23,03-10-2024 13:58:26,3.554s,PASSED
+"setText(findTestObject(""Object Repository/Page_Airbnb search/input_Where_query""), City)",Chrome 129.0.0.0,,,03-10-2024 13:58:26,03-10-2024 13:58:27,0.840s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/div_Check in""))",Chrome 129.0.0.0,,,03-10-2024 13:58:27,03-10-2024 13:58:29,1.574s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/label_3 days3 days""))",Chrome 129.0.0.0,,,03-10-2024 13:58:29,03-10-2024 13:58:30,0.921s,PASSED
+"click(findTestObject(""Object Repository/Page_Airbnb search/span_Add guests_t1dqvypu atm_9s_1ulexfb atm_023ad9""))",Chrome 129.0.0.0,,,03-10-2024 13:58:30,03-10-2024 13:58:31,0.690s,PASSED
+"verifyTextPresent(ExpectedResult, false)",Chrome 129.0.0.0,,,03-10-2024 13:58:31,03-10-2024 13:58:34,3.825s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 13:58:34,03-10-2024 13:58:34,0.113s,PASSED

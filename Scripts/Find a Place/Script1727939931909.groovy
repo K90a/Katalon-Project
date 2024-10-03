@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.airbnb.co.in/')
 
+WebUI.click(findTestObject('Page_Airbnb search/input_Where_query'))
+
 WebUI.setText(findTestObject('Object Repository/Page_Airbnb search/input_Where_query'), City)
 
 WebUI.click(findTestObject('Object Repository/Page_Airbnb search/div_Check in'))
