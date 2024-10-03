@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+interaction,Chrome 129.0.0.0,,,03-10-2024 09:48:06,03-10-2024 09:48:17,11.277s,PASSED
+,,,,,,,
+Test Cases/Simpler interaction,Chrome 129.0.0.0,,,03-10-2024 09:48:06,03-10-2024 09:48:17,11.193s,PASSED
+"openBrowser(""https://www.flipkart.com/"")",Chrome 129.0.0.0,,,03-10-2024 09:48:06,03-10-2024 09:48:12,6.344s,PASSED
+maximizeWindow(),Chrome 129.0.0.0,,,03-10-2024 09:48:12,03-10-2024 09:48:12,0.077s,PASSED
+delay(4),Chrome 129.0.0.0,,,03-10-2024 09:48:12,03-10-2024 09:48:16,4.038s,PASSED
+"click(findTestObject(""Flipkart/span_""))",Chrome 129.0.0.0,,,03-10-2024 09:48:16,03-10-2024 09:48:17,0.430s,PASSED
+getUrl(),Chrome 129.0.0.0,,,03-10-2024 09:48:17,03-10-2024 09:48:17,0.028s,PASSED
+print(getWindowTitle()),Chrome 129.0.0.0,,,03-10-2024 09:48:17,03-10-2024 09:48:17,0.019s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,03-10-2024 09:48:17,03-10-2024 09:48:17,0.129s,PASSED

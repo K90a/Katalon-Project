@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="interaction" time="21.769" tests="1" failures="0" errors="0">
+   <testsuite name="interaction" tests="1" failures="0" errors="0" time="21.769" skipped="0" timestamp="03-10-2024T09:53:06" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/interaction">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_095304\\interaction\\20241003_095304"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241003_095304\\interaction\\20241003_095304\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="6a8d742bca048fe18b114e06b105d751"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Simpler interaction" time="21.68" classname="Test Cases/Simpler interaction" status="PASSED">
+         <system-out><![CDATA[03-10-2024T09:53:06 - [TEST_CASE][PASSED] - Test Cases/Simpler interaction: Test Cases/Simpler interaction
+
+03-10-2024T09:53:06 - [TEST_STEP][PASSED] - openBrowser("https://www.flipkart.com/"): Browser is opened with url: 'https://www.flipkart.com/'
+
+03-10-2024T09:53:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-10-2024T09:53:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-10-2024T09:53:12 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.flipkart.com/'
+
+03-10-2024T09:53:12 - [TEST_STEP][PASSED] - delay(6): Delayed 6 second(s)
+
+03-10-2024T09:53:18 - [MESSAGE][PASSED] - Delayed 6 second(s)
+
+03-10-2024T09:53:18 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+03-10-2024T09:53:18 - [MESSAGE][PASSED] - Current window maximized
+
+03-10-2024T09:53:18 - [TEST_STEP][PASSED] - delay(9): Delayed 9 second(s)
+
+03-10-2024T09:53:27 - [MESSAGE][PASSED] - Delayed 9 second(s)
+
+03-10-2024T09:53:27 - [TEST_STEP][PASSED] - getUrl(): Current window's url is: 'https://www.flipkart.com/'
+
+03-10-2024T09:53:27 - [MESSAGE][PASSED] - Current window's url is: 'https://www.flipkart.com/'
+
+03-10-2024T09:53:27 - [TEST_STEP][PASSED] - click(findTestObject("Flipkart/span_")): Object: 'Object Repository/Flipkart/span_' is clicked on
+
+03-10-2024T09:53:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Flipkart/span_' is clicked on
+
+03-10-2024T09:53:27 - [TEST_STEP][PASSED] - print(getWindowTitle()): Current window's title is: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!'
+
+03-10-2024T09:53:27 - [MESSAGE][PASSED] - Current window's title is: 'Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!'
+
+03-10-2024T09:53:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-10-2024T09:53:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-10-2024T09:53:06 - [TEST_SUITE][PASSED] - interaction: Test Cases/Simpler interaction]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
