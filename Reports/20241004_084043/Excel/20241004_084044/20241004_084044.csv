@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Excel,Chrome 129.0.0.0,,,04-10-2024 08:40:46,04-10-2024 08:41:23,37.304s,PASSED
+,,,,,,,
+Test Cases/Excel,Chrome 129.0.0.0,,,04-10-2024 08:40:46,04-10-2024 08:40:59,12.588s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 08:40:46,04-10-2024 08:40:48,1.236s,PASSED
+"navigateToUrl(""https://practice.expandtesting.com/inputs"")",Chrome 129.0.0.0,,,04-10-2024 08:40:48,04-10-2024 08:40:52,4.946s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,04-10-2024 08:40:52,04-10-2024 08:40:54,1.592s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), number)",Chrome 129.0.0.0,,,04-10-2024 08:40:54,04-10-2024 08:40:55,0.893s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""))",Chrome 129.0.0.0,,,04-10-2024 08:40:55,04-10-2024 08:40:55,0.518s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""), text)",Chrome 129.0.0.0,,,04-10-2024 08:40:56,04-10-2024 08:40:56,0.983s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""))",Chrome 129.0.0.0,,,04-10-2024 08:40:56,04-10-2024 08:40:57,0.457s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""), password)",Chrome 129.0.0.0,,,04-10-2024 08:40:57,04-10-2024 08:40:58,0.830s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Display Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:40:58,04-10-2024 08:40:58,0.362s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Clear Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:40:58,04-10-2024 08:40:59,0.520s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 08:40:59,04-10-2024 08:40:59,0.102s,PASSED
+,,,,,,,
+Test Cases/Excel,Chrome 129.0.0.0,,,04-10-2024 08:40:59,04-10-2024 08:41:12,13.463s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 08:40:59,04-10-2024 08:40:59,0.697s,PASSED
+"navigateToUrl(""https://practice.expandtesting.com/inputs"")",Chrome 129.0.0.0,,,04-10-2024 08:40:59,04-10-2024 08:41:05,5.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,04-10-2024 08:41:05,04-10-2024 08:41:07,1.442s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), number)",Chrome 129.0.0.0,,,04-10-2024 08:41:07,04-10-2024 08:41:08,1.033s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""))",Chrome 129.0.0.0,,,04-10-2024 08:41:08,04-10-2024 08:41:08,0.514s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""), text)",Chrome 129.0.0.0,,,04-10-2024 08:41:08,04-10-2024 08:41:09,0.866s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""))",Chrome 129.0.0.0,,,04-10-2024 08:41:09,04-10-2024 08:41:09,0.500s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""), password)",Chrome 129.0.0.0,,,04-10-2024 08:41:09,04-10-2024 08:41:10,0.632s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Display Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:41:10,04-10-2024 08:41:10,0.363s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Clear Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:41:10,04-10-2024 08:41:11,0.597s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 08:41:11,04-10-2024 08:41:12,1.159s,PASSED
+,,,,,,,
+Test Cases/Excel,Chrome 129.0.0.0,,,04-10-2024 08:41:12,04-10-2024 08:41:23,11.061s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 08:41:12,04-10-2024 08:41:13,0.603s,PASSED
+"navigateToUrl(""https://practice.expandtesting.com/inputs"")",Chrome 129.0.0.0,,,04-10-2024 08:41:13,04-10-2024 08:41:16,3.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), STOP_ON_FAILURE)",Chrome 129.0.0.0,,,04-10-2024 08:41:16,04-10-2024 08:41:18,2.240s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Number_input-number""), number)",Chrome 129.0.0.0,,,04-10-2024 08:41:18,04-10-2024 08:41:19,0.985s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""))",Chrome 129.0.0.0,,,04-10-2024 08:41:19,04-10-2024 08:41:20,0.494s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Text_input-text""), text)",Chrome 129.0.0.0,,,04-10-2024 08:41:20,04-10-2024 08:41:21,0.916s,PASSED
+"click(findTestObject(""Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""))",Chrome 129.0.0.0,,,04-10-2024 08:41:21,04-10-2024 08:41:21,0.506s,PASSED
+"setText(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/input_Input Password_input-password""), password)",Chrome 129.0.0.0,,,04-10-2024 08:41:21,04-10-2024 08:41:22,0.903s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Display Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:41:22,04-10-2024 08:41:23,0.530s,PASSED
+"click(findTestObject(""Object Repository/Page_Web inputs page for Automation Testing_33fec6/button_Clear Inputs""))",Chrome 129.0.0.0,,,04-10-2024 08:41:23,04-10-2024 08:41:23,0.568s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 08:41:23,04-10-2024 08:41:23,0.191s,PASSED

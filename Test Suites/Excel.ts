@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Excel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d0018afc-06b9-4e8a-bf53-bb2edbfc40d7</testSuiteGuid>
+   <testCaseLink>
+      <guid>fc56b9c1-d14f-4126-af6d-2b6b1f9f1683</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Excel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ab88ef88-8423-4a6a-b900-814e57299b29</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ab88ef88-8423-4a6a-b900-814e57299b29</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>number</value>
+         <variableId>962a0e4c-6ef9-4393-8740-5ed4c1a375e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab88ef88-8423-4a6a-b900-814e57299b29</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>text</value>
+         <variableId>ff7481c8-2b40-4b8c-a113-1dfdb015d5f9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab88ef88-8423-4a6a-b900-814e57299b29</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>a9d3c78f-b395-4626-b882-6b10da446f5e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
