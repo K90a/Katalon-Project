@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TutorialPoint" time="23.994" tests="3" failures="0" errors="0">
+   <testsuite name="TutorialPoint" tests="3" failures="0" errors="0" time="23.994" skipped="0" timestamp="04-10-2024T11:14:48" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/TutorialPoint">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241004_111447\\TutorialPoint\\20241004_111447"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241004_111447\\TutorialPoint\\20241004_111447\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="f907b1b5d0cf2d38b3ea02d66bcfceed"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TutorialPoint" time="9.756" classname="Test Cases/TutorialPoint" status="PASSED">
+         <system-out><![CDATA[04-10-2024T11:14:49 - [TEST_CASE][PASSED] - Test Cases/TutorialPoint: Test Cases/TutorialPoint
+
+04-10-2024T11:14:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+04-10-2024T11:14:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-10-2024T11:14:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-10-2024T11:14:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+04-10-2024T11:14:50 - [TEST_STEP][PASSED] - navigateToUrl("https://www.tutorialspoint.com/selenium/practice/register.php"): Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:14:53 - [MESSAGE][PASSED] - Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:14:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:14:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:14:54 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname"), firstname): Text 'j' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:14:54 - [MESSAGE][PASSED] - Text 'j' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:14:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:14:55 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:14:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname"), lastname): Text 'xc' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:14:55 - [MESSAGE][PASSED] - Text 'xc' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:14:55 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username")): Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:14:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:14:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username"), username): Text 'df' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:14:57 - [MESSAGE][PASSED] - Text 'df' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:14:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_password"), pass): Text '4747561' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:14:57 - [MESSAGE][PASSED] - Text '4747561' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:14:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:14:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:14:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+04-10-2024T11:14:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TutorialPoint" time="6.925" classname="Test Cases/TutorialPoint" status="PASSED">
+         <system-out><![CDATA[04-10-2024T11:14:58 - [TEST_CASE][PASSED] - Test Cases/TutorialPoint: Test Cases/TutorialPoint
+
+04-10-2024T11:14:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+04-10-2024T11:14:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-10-2024T11:14:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-10-2024T11:14:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+04-10-2024T11:14:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.tutorialspoint.com/selenium/practice/register.php"): Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:15:00 - [MESSAGE][PASSED] - Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:15:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:15:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:15:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname"), firstname): Text 'bcb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:15:02 - [MESSAGE][PASSED] - Text 'bcb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:15:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:15:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:15:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname"), lastname): Text 'thsrh' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:15:03 - [MESSAGE][PASSED] - Text 'thsrh' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:15:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username")): Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:15:03 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:15:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username"), username): Text 'dcvgxdv' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:15:04 - [MESSAGE][PASSED] - Text 'dcvgxdv' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:15:04 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_password"), pass): Text '4561561' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:15:04 - [MESSAGE][PASSED] - Text '4561561' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:15:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:15:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:15:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+04-10-2024T11:15:05 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TutorialPoint" time="6.98" classname="Test Cases/TutorialPoint" status="PASSED">
+         <system-out><![CDATA[04-10-2024T11:15:05 - [TEST_CASE][PASSED] - Test Cases/TutorialPoint: Test Cases/TutorialPoint
+
+04-10-2024T11:15:05 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+04-10-2024T11:15:05 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-10-2024T11:15:05 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-10-2024T11:15:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+04-10-2024T11:15:06 - [TEST_STEP][PASSED] - navigateToUrl("https://www.tutorialspoint.com/selenium/practice/register.php"): Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:15:07 - [MESSAGE][PASSED] - Navigate to 'https://www.tutorialspoint.com/selenium/practice/register.php' successfully
+
+04-10-2024T11:15:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:15:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname' is clicked on
+
+04-10-2024T11:15:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_First Name_firstname"), firstname): Text 'zdvg' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:15:08 - [MESSAGE][PASSED] - Text 'zdvg' is set on object 'Object Repository/Page_Selenium Practice - Register/input_First Name_firstname'
+
+04-10-2024T11:15:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:15:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname' is clicked on
+
+04-10-2024T11:15:09 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname"), lastname): Text 'bbxsb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:15:10 - [MESSAGE][PASSED] - Text 'bbxsb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname'
+
+04-10-2024T11:15:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username")): Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:15:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_UserName_username' is clicked on
+
+04-10-2024T11:15:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_UserName_username"), username): Text 'zbzxb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:15:11 - [MESSAGE][PASSED] - Text 'zbzxb' is set on object 'Object Repository/Page_Selenium Practice - Register/input_UserName_username'
+
+04-10-2024T11:15:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_password"), pass): Text '6566' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:15:12 - [MESSAGE][PASSED] - Text '6566' is set on object 'Object Repository/Page_Selenium Practice - Register/input_Password_password'
+
+04-10-2024T11:15:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary")): Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:15:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary' is clicked on
+
+04-10-2024T11:15:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+04-10-2024T11:15:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-10-2024T11:14:48 - [TEST_SUITE][PASSED] - TutorialPoint: Test Cases/TutorialPoint]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

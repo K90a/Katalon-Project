@@ -1,0 +1,41 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TutorialPoint,Chrome 129.0.0.0,,,04-10-2024 11:18:31,04-10-2024 11:18:53,22.907s,PASSED
+,,,,,,,
+Test Cases/TutorialPoint,Chrome 129.0.0.0,,,04-10-2024 11:18:31,04-10-2024 11:18:39,8.448s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 11:18:31,04-10-2024 11:18:32,1.362s,PASSED
+"navigateToUrl(""https://www.tutorialspoint.com/selenium/practice/register.php"")",Chrome 129.0.0.0,,,04-10-2024 11:18:32,04-10-2024 11:18:33,1.266s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:33,04-10-2024 11:18:34,0.874s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""), firstname)",Chrome 129.0.0.0,,,04-10-2024 11:18:34,04-10-2024 11:18:35,0.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:35,04-10-2024 11:18:35,0.285s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""), lastname)",Chrome 129.0.0.0,,,04-10-2024 11:18:35,04-10-2024 11:18:36,0.746s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""))",Chrome 129.0.0.0,,,04-10-2024 11:18:36,04-10-2024 11:18:37,0.411s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""), username)",Chrome 129.0.0.0,,,04-10-2024 11:18:37,04-10-2024 11:18:37,0.770s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_password""), pass)",Chrome 129.0.0.0,,,04-10-2024 11:18:37,04-10-2024 11:18:38,0.890s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary""))",Chrome 129.0.0.0,,,04-10-2024 11:18:38,04-10-2024 11:18:39,0.863s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 11:18:39,04-10-2024 11:18:39,0.120s,PASSED
+,,,,,,,
+Test Cases/TutorialPoint,Chrome 129.0.0.0,,,04-10-2024 11:18:39,04-10-2024 11:18:47,7.555s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 11:18:39,04-10-2024 11:18:40,0.772s,PASSED
+"navigateToUrl(""https://www.tutorialspoint.com/selenium/practice/register.php"")",Chrome 129.0.0.0,,,04-10-2024 11:18:40,04-10-2024 11:18:41,0.813s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:41,04-10-2024 11:18:42,0.875s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""), firstname)",Chrome 129.0.0.0,,,04-10-2024 11:18:42,04-10-2024 11:18:42,0.779s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:42,04-10-2024 11:18:43,0.328s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""), lastname)",Chrome 129.0.0.0,,,04-10-2024 11:18:43,04-10-2024 11:18:44,0.837s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""))",Chrome 129.0.0.0,,,04-10-2024 11:18:44,04-10-2024 11:18:44,0.431s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""), username)",Chrome 129.0.0.0,,,04-10-2024 11:18:44,04-10-2024 11:18:45,0.813s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_password""), pass)",Chrome 129.0.0.0,,,04-10-2024 11:18:45,04-10-2024 11:18:46,0.815s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary""))",Chrome 129.0.0.0,,,04-10-2024 11:18:46,04-10-2024 11:18:47,0.909s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 11:18:47,04-10-2024 11:18:47,0.166s,PASSED
+,,,,,,,
+Test Cases/TutorialPoint,Chrome 129.0.0.0,,,04-10-2024 11:18:47,04-10-2024 11:18:53,6.618s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,04-10-2024 11:18:47,04-10-2024 11:18:48,0.621s,PASSED
+"navigateToUrl(""https://www.tutorialspoint.com/selenium/practice/register.php"")",Chrome 129.0.0.0,,,04-10-2024 11:18:48,04-10-2024 11:18:48,0.684s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:48,04-10-2024 11:18:49,0.879s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_First Name_firstname""), firstname)",Chrome 129.0.0.0,,,04-10-2024 11:18:49,04-10-2024 11:18:50,0.791s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""))",Chrome 129.0.0.0,,,04-10-2024 11:18:50,04-10-2024 11:18:50,0.414s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Last Name_lastname""), lastname)",Chrome 129.0.0.0,,,04-10-2024 11:18:50,04-10-2024 11:18:51,0.663s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""))",Chrome 129.0.0.0,,,04-10-2024 11:18:51,04-10-2024 11:18:51,0.378s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_UserName_username""), username)",Chrome 129.0.0.0,,,04-10-2024 11:18:51,04-10-2024 11:18:52,0.768s,PASSED
+"setText(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_password""), pass)",Chrome 129.0.0.0,,,04-10-2024 11:18:52,04-10-2024 11:18:53,0.829s,PASSED
+"click(findTestObject(""Object Repository/Page_Selenium Practice - Register/input_Password_btn btn-primary""))",Chrome 129.0.0.0,,,04-10-2024 11:18:53,04-10-2024 11:18:53,0.402s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,04-10-2024 11:18:53,04-10-2024 11:18:53,0.160s,PASSED

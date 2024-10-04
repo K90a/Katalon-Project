@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TutorialPoint</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f78ca98a-f388-41d1-bb4b-5b4cbc6dfafe</testSuiteGuid>
+   <testCaseLink>
+      <guid>fb70f2c5-ecbd-4329-aad7-93b25178a317</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TutorialPoint</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>da8fa1aa-a020-49fb-a68b-461e8c16ff8c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TutorialPoint</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>da8fa1aa-a020-49fb-a68b-461e8c16ff8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>1545c24a-9eb2-4ccd-9561-b81e295799ba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da8fa1aa-a020-49fb-a68b-461e8c16ff8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>17da73f9-229a-483e-b5a1-473d732557de</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da8fa1aa-a020-49fb-a68b-461e8c16ff8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>baec9bda-d8b5-4c42-9808-24fa96b88047</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>da8fa1aa-a020-49fb-a68b-461e8c16ff8c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>pass</value>
+         <variableId>394597d9-d545-4254-a136-95f3c46a3e4a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
