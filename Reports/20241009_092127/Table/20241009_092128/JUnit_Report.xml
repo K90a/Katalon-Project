@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Table" time="7.622" tests="1" failures="0" errors="0">
+   <testsuite name="Table" tests="1" failures="0" errors="0" time="7.622" skipped="0" timestamp="09-10-2024T09:21:30" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/Table">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241009_092127\\Table\\20241009_092128"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241009_092127\\Table\\20241009_092128\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 129.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="03f44c859c3d8c3706fd77ca20fd7344"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Webtable" time="7.545" classname="Test Cases/Webtable" status="PASSED">
+         <system-out><![CDATA[09-10-2024T09:21:31 - [TEST_CASE][PASSED] - Test Cases/Webtable: Test Cases/Webtable
+
+09-10-2024T09:21:31 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+09-10-2024T09:21:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+09-10-2024T09:21:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+09-10-2024T09:21:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+09-10-2024T09:21:32 - [TEST_STEP][PASSED] - navigateToUrl("https://rahulshettyacademy.com/AutomationPractice/"): Navigate to 'https://rahulshettyacademy.com/AutomationPractice/' successfully
+
+09-10-2024T09:21:34 - [MESSAGE][PASSED] - Navigate to 'https://rahulshettyacademy.com/AutomationPractice/' successfully
+
+09-10-2024T09:21:34 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+09-10-2024T09:21:34 - [MESSAGE][PASSED] - Current window maximized
+
+09-10-2024T09:21:34 - [TEST_STEP][PASSED] - getText(findTestObject("Page_Practice Page/Course")): Text of object 'Object Repository/Page_Practice Page/Course' is: 'Instructor Course Price
+Rahul Shetty Selenium Webdriver with Java Basics + Advanced + Interview Guide 30
+Rahul Shetty Learn SQL in Practical + Database Testing from Scratch 25
+Rahul Shetty Appium (Selenium) - Mobile Automation Testing from Scratch 30
+Rahul Shetty WebSecurity Testing for Beginners-QA knowledge to next level 20
+Rahul Shetty Learn JMETER from Scratch - (Performance + Load) Testing Tool 25
+Rahul Shetty WebServices / REST API Testing with SoapUI 35
+Rahul Shetty QA Expert Course :Software Testing + Bugzilla + SQL + Agile 25
+Rahul Shetty Master Selenium Automation in simple Python Language 25
+Rahul Shetty Advanced Selenium Framework Pageobject, TestNG, Maven, Jenkins,C 20
+Rahul Shetty Write effective QA Resume that will turn to interview call 0'
+
+09-10-2024T09:21:35 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Practice Page/Course' is: 'Instructor Course Price
+Rahul Shetty Selenium Webdriver with Java Basics + Advanced + Interview Guide 30
+Rahul Shetty Learn SQL in Practical + Database Testing from Scratch 25
+Rahul Shetty Appium (Selenium) - Mobile Automation Testing from Scratch 30
+Rahul Shetty WebSecurity Testing for Beginners-QA knowledge to next level 20
+Rahul Shetty Learn JMETER from Scratch - (Performance + Load) Testing Tool 25
+Rahul Shetty WebServices / REST API Testing with SoapUI 35
+Rahul Shetty QA Expert Course :Software Testing + Bugzilla + SQL + Agile 25
+Rahul Shetty Master Selenium Automation in simple Python Language 25
+Rahul Shetty Advanced Selenium Framework Pageobject, TestNG, Maven, Jenkins,C 20
+Rahul Shetty Write effective QA Resume that will turn to interview call 0'
+
+09-10-2024T09:21:35 - [TEST_STEP][PASSED] - delay(3): Delayed 3 second(s)
+
+09-10-2024T09:21:38 - [MESSAGE][PASSED] - Delayed 3 second(s)
+
+09-10-2024T09:21:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+09-10-2024T09:21:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[09-10-2024T09:21:30 - [TEST_SUITE][PASSED] - Table: Test Cases/Webtable]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

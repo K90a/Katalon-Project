@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DragDrop,Chrome 129.0.0.0,,,09-10-2024 10:21:03,09-10-2024 10:21:08,4.360s,PASSED
+,,,,,,,
+Test Cases/Drag,Chrome 129.0.0.0,,,09-10-2024 10:21:04,09-10-2024 10:21:08,4.281s,PASSED
+"openBrowser("""")",Chrome 129.0.0.0,,,09-10-2024 10:21:04,09-10-2024 10:21:05,0.990s,PASSED
+"navigateToUrl(""https://www.tutorialspoint.com/selenium/practice/droppable.php"")",Chrome 129.0.0.0,,,09-10-2024 10:21:05,09-10-2024 10:21:06,1.046s,PASSED
+"dragAndDropToObject(findTestObject(""Page_Selenium Practice - Droppable/div_Drag me to my target""), findTestObject(""Page_Selenium Practice - Droppable/div_Drop here""))",Chrome 129.0.0.0,,,09-10-2024 10:21:06,09-10-2024 10:21:08,1.997s,PASSED
+closeBrowser(),Chrome 129.0.0.0,,,09-10-2024 10:21:08,09-10-2024 10:21:08,0.140s,PASSED

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Drag me to my target</name>
+   <tag></tag>
+   <elementGuidId>717d1563-f005-4740-a480-909f94cc7b91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#draggable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='draggable']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#draggable</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d7a51a1-148c-42ec-a922-fbd48ba0ee74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>draggable</value>
+      <webElementGuid>1ad50327-db4a-414e-bdd3-ecff834f6487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-widget-content ui-draggable ui-draggable-handle</value>
+      <webElementGuid>709d38f7-2469-4a3e-a434-a5d3a8b615fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						  Drag me to my target
+						</value>
+      <webElementGuid>7dd36375-81bb-4e66-8121-5575ca29cdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;draggable&quot;)</value>
+      <webElementGuid>54b7c5e2-a412-455e-835f-210004cd5eb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='draggable']</value>
+      <webElementGuid>4035055e-638d-44ba-b829-6e0cd5acd30a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-home']/div</value>
+      <webElementGuid>1604120a-56bb-4519-9f4f-3c5247e294e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revert Droppable'])[1]/following::div[3]</value>
+      <webElementGuid>0eed4861-b72c-4433-8ac6-53e9a79e721f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prevent Propagation'])[1]/following::div[3]</value>
+      <webElementGuid>52d9d5d2-6fae-428e-a272-b4955a5653f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop here'])[2]/preceding::div[2]</value>
+      <webElementGuid>1b1bdbcb-8afa-435e-ab33-68c9467553d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag me'])[1]/preceding::div[3]</value>
+      <webElementGuid>be010bf5-0753-4c6a-9676-9cd11fd3641a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>4847466b-0fc8-4f90-9926-af9b21d57909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'draggable' and (text() = '
+						  Drag me to my target
+						' or . = '
+						  Drag me to my target
+						')]</value>
+      <webElementGuid>0598cad8-6f52-40ef-9d44-b2556c964afb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
