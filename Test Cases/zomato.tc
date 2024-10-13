@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>zomato</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40055e5e-2e8a-422f-a65f-04d0c8a14c1d</testCaseGuid>
+</TestCaseEntity>

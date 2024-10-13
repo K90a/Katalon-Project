@@ -1,0 +1,25 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+website,Chrome 130.0.0.0,,,13-10-2024 12:48:08,13-10-2024 12:48:25,16.731s,PASSED
+,,,,,,,
+Test Cases/Amzon,Chrome 130.0.0.0,,,13-10-2024 12:48:08,13-10-2024 12:48:12,4.117s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 12:48:08,13-10-2024 12:48:10,1.616s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 130.0.0.0,,,13-10-2024 12:48:10,13-10-2024 12:48:11,1.218s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in""), "".in"")",Chrome 130.0.0.0,,,13-10-2024 12:48:11,13-10-2024 12:48:12,1.032s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 12:48:12,13-10-2024 12:48:12,0.133s,PASSED
+,,,,,,,
+Test Cases/Youtube,Chrome 130.0.0.0,,,13-10-2024 12:48:12,13-10-2024 12:48:17,5.204s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 12:48:12,13-10-2024 12:48:13,0.643s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Chrome 130.0.0.0,,,13-10-2024 12:48:13,13-10-2024 12:48:15,2.393s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_YouTube/div""), """")",Chrome 130.0.0.0,,,13-10-2024 12:48:15,13-10-2024 12:48:17,1.905s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 12:48:17,13-10-2024 12:48:17,0.183s,PASSED
+,,,,,,,
+Test Cases/goibibo,Chrome 130.0.0.0,,,13-10-2024 12:48:17,13-10-2024 12:48:22,5.030s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 12:48:17,13-10-2024 12:48:18,0.651s,PASSED
+"navigateToUrl(""https://www.goibibo.com/"")",Chrome 130.0.0.0,,,13-10-2024 12:48:18,13-10-2024 12:48:21,2.439s,PASSED
+"click(findTestObject(""Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f""))",Chrome 130.0.0.0,,,13-10-2024 12:48:21,13-10-2024 12:48:22,1.731s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 12:48:22,13-10-2024 12:48:22,0.104s,PASSED
+,,,,,,,
+Test Cases/railyatri,Chrome 130.0.0.0,,,13-10-2024 12:48:22,13-10-2024 12:48:25,2.276s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 12:48:22,13-10-2024 12:48:23,0.540s,PASSED
+"navigateToUrl(""https://www.railyatri.in/"")",Chrome 130.0.0.0,,,13-10-2024 12:48:23,13-10-2024 12:48:25,1.583s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 12:48:25,13-10-2024 12:48:25,0.102s,PASSED

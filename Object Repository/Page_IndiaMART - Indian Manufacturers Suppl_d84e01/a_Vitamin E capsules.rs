@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vitamin E capsules</name>
+   <tag></tag>
+   <elementGuidId>18a9416e-d072-43e4-823e-702c475319b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;getEventHome('w3_recently_viewed','cta_click_prdname','IMHOME');&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.pernm.unblk.line-clamp3.blpernm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Vitamin E capsules&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4f7a392-defe-415e-9304-c8977d9db06a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pernm unblk line-clamp3 blpernm</value>
+      <webElementGuid>cca7bb5f-9a66-46c2-842f-c9479bd341f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.indiamart.com/proddetail/vitamin-e-capsules-23414202462.html</value>
+      <webElementGuid>b309ddbd-a25e-460c-bd0a-e76ea301785c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8213f49e-c05f-453a-9db2-c8ec23c0f98c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>getEventHome('w3_recently_viewed','cta_click_prdname','IMHOME');</value>
+      <webElementGuid>c774f7db-ee65-4061-9301-e0a3a70a0688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vitamin E capsules</value>
+      <webElementGuid>809fd20e-e6ab-4d22-ae93-ac20a96de25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;recent_item_widget&quot;)/div[@class=&quot;prswdgt&quot;]/div[1]/a[@class=&quot;pernm unblk line-clamp3 blpernm&quot;]</value>
+      <webElementGuid>78eed142-d3fb-4198-9bb0-78a53dea90c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;getEventHome('w3_recently_viewed','cta_click_prdname','IMHOME');&quot;]</value>
+      <webElementGuid>be5e6bc1-3a1c-40f6-83d6-51879a8822be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='recent_item_widget']/div[2]/div/a[2]</value>
+      <webElementGuid>e7d1f5c1-f339-4c41-85a2-639a281ed05c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Vitamin E capsules')]</value>
+      <webElementGuid>4c59bdf4-a023-452a-94f5-3fadfcc34e9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>'])[1]/following::a[2]</value>
+      <webElementGuid>2947560a-f87b-4738-9cad-3ebd59182453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mercury Medicare, Chennai'])[1]/preceding::a[1]</value>
+      <webElementGuid>d988a580-957c-4ceb-b857-2844dc250839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chennai, Tamil Nadu'])[1]/preceding::a[2]</value>
+      <webElementGuid>cbf8d19d-8e5f-4b97-811f-ef51768a7c58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vitamin E capsules']/parent::*</value>
+      <webElementGuid>f2730ea1-c827-469c-bcb9-469195992609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.indiamart.com/proddetail/vitamin-e-capsules-23414202462.html')])[2]</value>
+      <webElementGuid>898662fe-9132-4441-9d7f-baa270b9c635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>359f3820-0da0-43df-a812-6178a0491cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.indiamart.com/proddetail/vitamin-e-capsules-23414202462.html' and (text() = 'Vitamin E capsules' or . = 'Vitamin E capsules')]</value>
+      <webElementGuid>3f367fe2-6585-430f-9308-2881adcbaa95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

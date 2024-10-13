@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="website" time="112.84" tests="26" failures="0" errors="0">
+   <testsuite name="website" tests="26" failures="0" errors="0" time="112.84" skipped="0" timestamp="13-10-2024T13:36:54" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/website">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241013_133653\\website\\20241013_133653"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241013_133653\\website\\20241013_133653\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="e50f7b29d69f1de1f52e8518b0b9c6e1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amzon" time="3.829" classname="Test Cases/Amzon" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:36:55 - [TEST_CASE][PASSED] - Test Cases/Amzon: Test Cases/Amzon
+
+13-10-2024T13:36:55 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:36:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:36:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:36:56 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:36:56 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+13-10-2024T13:36:57 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+13-10-2024T13:36:57 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in"), ".in"): Actual text and expected text of test object 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' are matched.
+
+13-10-2024T13:36:58 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' are matched.
+
+13-10-2024T13:36:58 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:36:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Youtube" time="4.389" classname="Test Cases/Youtube" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:36:58 - [TEST_CASE][PASSED] - Test Cases/Youtube: Test Cases/Youtube
+
+13-10-2024T13:36:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:36:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:36:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:36:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:36:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/"): Navigate to 'https://www.youtube.com/' successfully
+
+13-10-2024T13:37:01 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/' successfully
+
+13-10-2024T13:37:01 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_YouTube/div"), ""): Actual text and expected text of test object 'Object Repository/Page_YouTube/div' are matched.
+
+13-10-2024T13:37:03 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_YouTube/div' are matched.
+
+13-10-2024T13:37:03 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/goibibo" time="5.213" classname="Test Cases/goibibo" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:03 - [TEST_CASE][PASSED] - Test Cases/goibibo: Test Cases/goibibo
+
+13-10-2024T13:37:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:03 - [TEST_STEP][PASSED] - navigateToUrl("https://www.goibibo.com/"): Navigate to 'https://www.goibibo.com/' successfully
+
+13-10-2024T13:37:06 - [MESSAGE][PASSED] - Navigate to 'https://www.goibibo.com/' successfully
+
+13-10-2024T13:37:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f")): Object: 'Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f' is clicked on
+
+13-10-2024T13:37:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f' is clicked on
+
+13-10-2024T13:37:08 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:08 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/railyatri" time="2.902" classname="Test Cases/railyatri" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:08 - [TEST_CASE][PASSED] - Test Cases/railyatri: Test Cases/railyatri
+
+13-10-2024T13:37:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:09 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:09 - [TEST_STEP][PASSED] - navigateToUrl("https://www.railyatri.in/"): Navigate to 'https://www.railyatri.in/' successfully
+
+13-10-2024T13:37:11 - [MESSAGE][PASSED] - Navigate to 'https://www.railyatri.in/' successfully
+
+13-10-2024T13:37:11 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:11 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/shopify" time="2.784" classname="Test Cases/shopify" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:11 - [TEST_CASE][PASSED] - Test Cases/shopify: Test Cases/shopify
+
+13-10-2024T13:37:11 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:11 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:11 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:12 - [TEST_STEP][PASSED] - navigateToUrl("https://www.shopify.com/in"): Navigate to 'https://www.shopify.com/in' successfully
+
+13-10-2024T13:37:12 - [MESSAGE][PASSED] - Navigate to 'https://www.shopify.com/in' successfully
+
+13-10-2024T13:37:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Shopify/p_Dream big, build fast, and grow far on Shopify"), "Dream big, build fast, and grow far on Shopify."): Actual text and expected text of test object 'Object Repository/Page_Shopify/p_Dream big, build fast, and grow far on Shopify' are matched.
+
+13-10-2024T13:37:13 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Shopify/p_Dream big, build fast, and grow far on Shopify' are matched.
+
+13-10-2024T13:37:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:14 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/opencart" time="4.377" classname="Test Cases/opencart" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:14 - [TEST_CASE][PASSED] - Test Cases/opencart: Test Cases/opencart
+
+13-10-2024T13:37:14 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:14 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:14 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.opencart.com/"): Navigate to 'https://www.opencart.com/' successfully
+
+13-10-2024T13:37:18 - [MESSAGE][PASSED] - Navigate to 'https://www.opencart.com/' successfully
+
+13-10-2024T13:37:18 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/ebay" time="2.844" classname="Test Cases/ebay" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:18 - [TEST_CASE][PASSED] - Test Cases/ebay: Test Cases/ebay
+
+13-10-2024T13:37:18 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:18 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:18 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:19 - [TEST_STEP][PASSED] - navigateToUrl("https://www.ebay.com/"): Navigate to 'https://www.ebay.com/' successfully
+
+13-10-2024T13:37:21 - [MESSAGE][PASSED] - Navigate to 'https://www.ebay.com/' successfully
+
+13-10-2024T13:37:21 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/snapdeal" time="2.566" classname="Test Cases/snapdeal" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:21 - [TEST_CASE][PASSED] - Test Cases/snapdeal: Test Cases/snapdeal
+
+13-10-2024T13:37:21 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:22 - [TEST_STEP][PASSED] - navigateToUrl("https://snapdeal.com/"): Navigate to 'https://snapdeal.com/' successfully
+
+13-10-2024T13:37:23 - [MESSAGE][PASSED] - Navigate to 'https://snapdeal.com/' successfully
+
+13-10-2024T13:37:23 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:23 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/indiamart" time="3.951" classname="Test Cases/indiamart" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:23 - [TEST_CASE][PASSED] - Test Cases/indiamart: Test Cases/indiamart
+
+13-10-2024T13:37:24 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:24 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:24 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:24 - [TEST_STEP][PASSED] - navigateToUrl("https://www.indiamart.com/"): Navigate to 'https://www.indiamart.com/' successfully
+
+13-10-2024T13:37:27 - [MESSAGE][PASSED] - Navigate to 'https://www.indiamart.com/' successfully
+
+13-10-2024T13:37:27 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:27 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/firstcry" time="4.434" classname="Test Cases/firstcry" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:27 - [TEST_CASE][PASSED] - Test Cases/firstcry: Test Cases/firstcry
+
+13-10-2024T13:37:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:28 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:28 - [TEST_STEP][PASSED] - navigateToUrl("https://www.firstcry.com/"): Navigate to 'https://www.firstcry.com/' successfully
+
+13-10-2024T13:37:32 - [MESSAGE][PASSED] - Navigate to 'https://www.firstcry.com/' successfully
+
+13-10-2024T13:37:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/swiggy" time="2.284" classname="Test Cases/swiggy" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:32 - [TEST_CASE][PASSED] - Test Cases/swiggy: Test Cases/swiggy
+
+13-10-2024T13:37:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:33 - [TEST_STEP][PASSED] - navigateToUrl("https://www.swiggy.com/"): Navigate to 'https://www.swiggy.com/' successfully
+
+13-10-2024T13:37:34 - [MESSAGE][PASSED] - Navigate to 'https://www.swiggy.com/' successfully
+
+13-10-2024T13:37:34 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:34 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/zomato" time="3.607" classname="Test Cases/zomato" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:34 - [TEST_CASE][PASSED] - Test Cases/zomato: Test Cases/zomato
+
+13-10-2024T13:37:34 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:34 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:34 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:35 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:35 - [TEST_STEP][PASSED] - navigateToUrl("https://www.zomato.com/"): Navigate to 'https://www.zomato.com/' successfully
+
+13-10-2024T13:37:38 - [MESSAGE][PASSED] - Navigate to 'https://www.zomato.com/' successfully
+
+13-10-2024T13:37:38 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/bigbasket" time="4.18" classname="Test Cases/bigbasket" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:38 - [TEST_CASE][PASSED] - Test Cases/bigbasket: Test Cases/bigbasket
+
+13-10-2024T13:37:38 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:38 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:38 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.bigbasket.com/"): Navigate to 'https://www.bigbasket.com/' successfully
+
+13-10-2024T13:37:42 - [MESSAGE][PASSED] - Navigate to 'https://www.bigbasket.com/' successfully
+
+13-10-2024T13:37:42 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:42 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/meesho" time="1.767" classname="Test Cases/meesho" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:42 - [TEST_CASE][PASSED] - Test Cases/meesho: Test Cases/meesho
+
+13-10-2024T13:37:42 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:42 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:42 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:43 - [TEST_STEP][PASSED] - navigateToUrl("https://www.meesho.com/"): Navigate to 'https://www.meesho.com/' successfully
+
+13-10-2024T13:37:44 - [MESSAGE][PASSED] - Navigate to 'https://www.meesho.com/' successfully
+
+13-10-2024T13:37:44 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:37:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/domizon" time="23.428" classname="Test Cases/domizon" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:37:44 - [TEST_CASE][PASSED] - Test Cases/domizon: Test Cases/domizon
+
+13-10-2024T13:37:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:37:44 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:37:44 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:37:44 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:37:44 - [TEST_STEP][PASSED] - navigateToUrl("https://pizzaonline.dominos.co.in/"): Navigate to 'https://pizzaonline.dominos.co.in/' successfully
+
+13-10-2024T13:38:07 - [MESSAGE][PASSED] - Navigate to 'https://pizzaonline.dominos.co.in/' successfully
+
+13-10-2024T13:38:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/pizzahut" time="4.654" classname="Test Cases/pizzahut" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:07 - [TEST_CASE][PASSED] - Test Cases/pizzahut: Test Cases/pizzahut
+
+13-10-2024T13:38:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.pizzahut.co.in/"): Navigate to 'https://www.pizzahut.co.in/' successfully
+
+13-10-2024T13:38:12 - [MESSAGE][PASSED] - Navigate to 'https://www.pizzahut.co.in/' successfully
+
+13-10-2024T13:38:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/burger" time="1.319" classname="Test Cases/burger" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:12 - [TEST_CASE][PASSED] - Test Cases/burger: Test Cases/burger
+
+13-10-2024T13:38:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:12 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:12 - [TEST_STEP][PASSED] - navigateToUrl("https://www.bk.com/"): Navigate to 'https://www.bk.com/' successfully
+
+13-10-2024T13:38:13 - [MESSAGE][PASSED] - Navigate to 'https://www.bk.com/' successfully
+
+13-10-2024T13:38:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/mcdoland" time="2.759" classname="Test Cases/mcdoland" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:13 - [TEST_CASE][PASSED] - Test Cases/mcdoland: Test Cases/mcdoland
+
+13-10-2024T13:38:13 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:13 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:13 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:14 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:14 - [TEST_STEP][PASSED] - navigateToUrl("https://www.mcdonalds.com/us/en-us.html"): Navigate to 'https://www.mcdonalds.com/us/en-us.html' successfully
+
+13-10-2024T13:38:16 - [MESSAGE][PASSED] - Navigate to 'https://www.mcdonalds.com/us/en-us.html' successfully
+
+13-10-2024T13:38:16 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/wow momo" time="4.288" classname="Test Cases/wow momo" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:16 - [TEST_CASE][PASSED] - Test Cases/wow momo: Test Cases/wow momo
+
+13-10-2024T13:38:16 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:16 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:17 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:17 - [TEST_STEP][PASSED] - navigateToUrl("https://www.wowmomo.com/"): Navigate to 'https://www.wowmomo.com/' successfully
+
+13-10-2024T13:38:20 - [MESSAGE][PASSED] - Navigate to 'https://www.wowmomo.com/' successfully
+
+13-10-2024T13:38:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/pharmeasy" time="1.713" classname="Test Cases/pharmeasy" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:20 - [TEST_CASE][PASSED] - Test Cases/pharmeasy: Test Cases/pharmeasy
+
+13-10-2024T13:38:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:21 - [TEST_STEP][PASSED] - navigateToUrl("https://pharmeasy.in/"): Navigate to 'https://pharmeasy.in/' successfully
+
+13-10-2024T13:38:22 - [MESSAGE][PASSED] - Navigate to 'https://pharmeasy.in/' successfully
+
+13-10-2024T13:38:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Applo" time="3.761" classname="Test Cases/Applo" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:22 - [TEST_CASE][PASSED] - Test Cases/Applo: Test Cases/Applo
+
+13-10-2024T13:38:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:23 - [TEST_STEP][PASSED] - navigateToUrl("https://www.apollopharmacy.in/"): Navigate to 'https://www.apollopharmacy.in/' successfully
+
+13-10-2024T13:38:25 - [MESSAGE][PASSED] - Navigate to 'https://www.apollopharmacy.in/' successfully
+
+13-10-2024T13:38:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:26 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/nedmeds" time="5.941" classname="Test Cases/nedmeds" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:26 - [TEST_CASE][PASSED] - Test Cases/nedmeds: Test Cases/nedmeds
+
+13-10-2024T13:38:26 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:26 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:26 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:26 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:26 - [TEST_STEP][PASSED] - navigateToUrl("https://www.netmeds.com/"): Navigate to 'https://www.netmeds.com/' successfully
+
+13-10-2024T13:38:32 - [MESSAGE][PASSED] - Navigate to 'https://www.netmeds.com/' successfully
+
+13-10-2024T13:38:32 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:32 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/1mg" time="4.479" classname="Test Cases/1mg" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:32 - [TEST_CASE][PASSED] - Test Cases/1mg: Test Cases/1mg
+
+13-10-2024T13:38:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:32 - [TEST_STEP][PASSED] - navigateToUrl("https://www.1mg.com/"): Navigate to 'https://www.1mg.com/' successfully
+
+13-10-2024T13:38:36 - [MESSAGE][PASSED] - Navigate to 'https://www.1mg.com/' successfully
+
+13-10-2024T13:38:36 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:36 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/pcinicin" time="2.753" classname="Test Cases/pcinicin" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:36 - [TEST_CASE][PASSED] - Test Cases/pcinicin: Test Cases/pcinicin
+
+13-10-2024T13:38:36 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:36 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:36 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:37 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:37 - [TEST_STEP][PASSED] - navigateToUrl("https://www.pci.nic.in/"): Navigate to 'https://www.pci.nic.in/' successfully
+
+13-10-2024T13:38:39 - [MESSAGE][PASSED] - Navigate to 'https://www.pci.nic.in/' successfully
+
+13-10-2024T13:38:39 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:39 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/mdpicom" time="6.808" classname="Test Cases/mdpicom" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:39 - [TEST_CASE][PASSED] - Test Cases/mdpicom: Test Cases/mdpicom
+
+13-10-2024T13:38:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:40 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:40 - [TEST_STEP][PASSED] - navigateToUrl("https://www.mdpi.com/journal/pharmacy"): Navigate to 'https://www.mdpi.com/journal/pharmacy' successfully
+
+13-10-2024T13:38:46 - [MESSAGE][PASSED] - Navigate to 'https://www.mdpi.com/journal/pharmacy' successfully
+
+13-10-2024T13:38:46 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:46 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/medplusmartcom" time="1.567" classname="Test Cases/medplusmartcom" status="PASSED">
+         <system-out><![CDATA[13-10-2024T13:38:46 - [TEST_CASE][PASSED] - Test Cases/medplusmartcom: Test Cases/medplusmartcom
+
+13-10-2024T13:38:46 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T13:38:46 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T13:38:46 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T13:38:46 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T13:38:46 - [TEST_STEP][PASSED] - navigateToUrl("https://www.medplusmart.com/"): Navigate to 'https://www.medplusmart.com/' successfully
+
+13-10-2024T13:38:47 - [MESSAGE][PASSED] - Navigate to 'https://www.medplusmart.com/' successfully
+
+13-10-2024T13:38:47 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T13:38:47 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-10-2024T13:36:54 - [TEST_SUITE][PASSED] - website: Test Cases/medplusmartcom]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

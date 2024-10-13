@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>ca02dfd4-5f72-4502-ab3b-6cbcd4d6b8bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//yt-icon[@id='logo-icon']/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#logo-icon > span.yt-icon-shape.style-scope.yt-icon.yt-spec-icon-shape > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;YouTube Home&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b27272b-06c1-4549-a081-18363979766c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;start&quot;)/ytd-topbar-logo-renderer[@id=&quot;logo&quot;]/a[@id=&quot;logo&quot;]/div[@class=&quot;style-scope ytd-topbar-logo-renderer&quot;]/ytd-logo[@class=&quot;style-scope ytd-topbar-logo-renderer&quot;]/yt-icon[@id=&quot;logo-icon&quot;]/span[@class=&quot;yt-icon-shape style-scope yt-icon yt-spec-icon-shape&quot;]/div[1]</value>
+      <webElementGuid>f699c364-dc0c-4d3b-8928-3abedeed6f76</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//yt-icon[@id='logo-icon']/span/div</value>
+      <webElementGuid>0e29ce00-9198-4b78-a1c9-d664daadd20c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[5]</value>
+      <webElementGuid>3952e975-978f-4fcd-9041-d8f900fa5aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NaN / NaN'])[2]/following::div[43]</value>
+      <webElementGuid>0aa1f5d3-e8ae-46f3-895f-4417a8c132aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IN'])[1]/preceding::div[2]</value>
+      <webElementGuid>e62c0794-4588-4567-ac05-f6e5a50b0939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip navigation'])[1]/preceding::div[2]</value>
+      <webElementGuid>b92bb213-ea4c-4eed-8a4f-931fb0f8444c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-logo/yt-icon/span/div</value>
+      <webElementGuid>8c421272-27bd-451f-a0ff-6737dc2b2e19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

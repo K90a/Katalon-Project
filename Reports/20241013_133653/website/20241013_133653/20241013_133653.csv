@@ -1,0 +1,136 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+website,Chrome 130.0.0.0,,,13-10-2024 13:36:54,13-10-2024 13:38:47,1m - 52.840s,PASSED
+,,,,,,,
+Test Cases/Amzon,Chrome 130.0.0.0,,,13-10-2024 13:36:55,13-10-2024 13:36:58,3.829s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:36:55,13-10-2024 13:36:56,1.182s,PASSED
+"navigateToUrl(""https://www.amazon.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:36:56,13-10-2024 13:36:57,1.386s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in""), "".in"")",Chrome 130.0.0.0,,,13-10-2024 13:36:57,13-10-2024 13:36:58,1.049s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:36:58,13-10-2024 13:36:58,0.097s,PASSED
+,,,,,,,
+Test Cases/Youtube,Chrome 130.0.0.0,,,13-10-2024 13:36:58,13-10-2024 13:37:03,4.389s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:36:58,13-10-2024 13:36:59,0.729s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:36:59,13-10-2024 13:37:01,2.395s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_YouTube/div""), """")",Chrome 130.0.0.0,,,13-10-2024 13:37:01,13-10-2024 13:37:03,1.074s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:03,13-10-2024 13:37:03,0.157s,PASSED
+,,,,,,,
+Test Cases/goibibo,Chrome 130.0.0.0,,,13-10-2024 13:37:03,13-10-2024 13:37:08,5.213s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:03,13-10-2024 13:37:03,0.508s,PASSED
+"navigateToUrl(""https://www.goibibo.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:03,13-10-2024 13:37:06,2.852s,PASSED
+"click(findTestObject(""Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f""))",Chrome 130.0.0.0,,,13-10-2024 13:37:06,13-10-2024 13:37:08,1.642s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:08,13-10-2024 13:37:08,0.177s,PASSED
+,,,,,,,
+Test Cases/railyatri,Chrome 130.0.0.0,,,13-10-2024 13:37:08,13-10-2024 13:37:11,2.902s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:08,13-10-2024 13:37:09,0.757s,PASSED
+"navigateToUrl(""https://www.railyatri.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:09,13-10-2024 13:37:11,2.013s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:11,13-10-2024 13:37:11,0.083s,PASSED
+,,,,,,,
+Test Cases/shopify,Chrome 130.0.0.0,,,13-10-2024 13:37:11,13-10-2024 13:37:14,2.784s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:11,13-10-2024 13:37:12,0.648s,PASSED
+"navigateToUrl(""https://www.shopify.com/in"")",Chrome 130.0.0.0,,,13-10-2024 13:37:12,13-10-2024 13:37:12,0.591s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_Shopify/p_Dream big, build fast, and grow far on Shopify""), ""Dream big, build fast, and grow far on Shopify."")",Chrome 130.0.0.0,,,13-10-2024 13:37:12,13-10-2024 13:37:13,1.309s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:13,13-10-2024 13:37:14,0.152s,PASSED
+,,,,,,,
+Test Cases/opencart,Chrome 130.0.0.0,,,13-10-2024 13:37:14,13-10-2024 13:37:18,4.377s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:14,13-10-2024 13:37:14,0.745s,PASSED
+"navigateToUrl(""https://www.opencart.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:14,13-10-2024 13:37:18,3.378s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:18,13-10-2024 13:37:18,0.188s,PASSED
+,,,,,,,
+Test Cases/ebay,Chrome 130.0.0.0,,,13-10-2024 13:37:18,13-10-2024 13:37:21,2.844s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:18,13-10-2024 13:37:19,0.720s,PASSED
+"navigateToUrl(""https://www.ebay.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:19,13-10-2024 13:37:21,1.909s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:21,13-10-2024 13:37:21,0.169s,PASSED
+,,,,,,,
+Test Cases/snapdeal,Chrome 130.0.0.0,,,13-10-2024 13:37:21,13-10-2024 13:37:23,2.566s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:21,13-10-2024 13:37:22,0.646s,PASSED
+"navigateToUrl(""https://snapdeal.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:22,13-10-2024 13:37:23,1.771s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:23,13-10-2024 13:37:23,0.082s,PASSED
+,,,,,,,
+Test Cases/indiamart,Chrome 130.0.0.0,,,13-10-2024 13:37:23,13-10-2024 13:37:27,3.951s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:24,13-10-2024 13:37:24,0.706s,PASSED
+"navigateToUrl(""https://www.indiamart.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:24,13-10-2024 13:37:27,3.053s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:27,13-10-2024 13:37:27,0.144s,PASSED
+,,,,,,,
+Test Cases/firstcry,Chrome 130.0.0.0,,,13-10-2024 13:37:27,13-10-2024 13:37:32,4.434s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:28,13-10-2024 13:37:28,0.784s,PASSED
+"navigateToUrl(""https://www.firstcry.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:28,13-10-2024 13:37:32,3.449s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:32,13-10-2024 13:37:32,0.130s,PASSED
+,,,,,,,
+Test Cases/swiggy,Chrome 130.0.0.0,,,13-10-2024 13:37:32,13-10-2024 13:37:34,2.284s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:32,13-10-2024 13:37:33,0.780s,PASSED
+"navigateToUrl(""https://www.swiggy.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:33,13-10-2024 13:37:34,1.333s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:34,13-10-2024 13:37:34,0.113s,PASSED
+,,,,,,,
+Test Cases/zomato,Chrome 130.0.0.0,,,13-10-2024 13:37:34,13-10-2024 13:37:38,3.607s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:34,13-10-2024 13:37:35,0.773s,PASSED
+"navigateToUrl(""https://www.zomato.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:35,13-10-2024 13:37:38,2.605s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:38,13-10-2024 13:37:38,0.190s,PASSED
+,,,,,,,
+Test Cases/bigbasket,Chrome 130.0.0.0,,,13-10-2024 13:37:38,13-10-2024 13:37:42,4.180s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:38,13-10-2024 13:37:38,0.583s,PASSED
+"navigateToUrl(""https://www.bigbasket.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:38,13-10-2024 13:37:42,3.425s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:42,13-10-2024 13:37:42,0.143s,PASSED
+,,,,,,,
+Test Cases/meesho,Chrome 130.0.0.0,,,13-10-2024 13:37:42,13-10-2024 13:37:44,1.767s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:42,13-10-2024 13:37:43,0.681s,PASSED
+"navigateToUrl(""https://www.meesho.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:43,13-10-2024 13:37:44,0.883s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:37:44,13-10-2024 13:37:44,0.152s,PASSED
+,,,,,,,
+Test Cases/domizon,Chrome 130.0.0.0,,,13-10-2024 13:37:44,13-10-2024 13:38:07,23.428s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:37:44,13-10-2024 13:37:44,0.637s,PASSED
+"navigateToUrl(""https://pizzaonline.dominos.co.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:37:44,13-10-2024 13:38:07,22.610s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:07,13-10-2024 13:38:07,0.154s,PASSED
+,,,,,,,
+Test Cases/pizzahut,Chrome 130.0.0.0,,,13-10-2024 13:38:07,13-10-2024 13:38:12,4.654s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:07,13-10-2024 13:38:08,0.803s,PASSED
+"navigateToUrl(""https://www.pizzahut.co.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:08,13-10-2024 13:38:12,3.665s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:12,13-10-2024 13:38:12,0.114s,PASSED
+,,,,,,,
+Test Cases/burger,Chrome 130.0.0.0,,,13-10-2024 13:38:12,13-10-2024 13:38:13,1.319s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:12,13-10-2024 13:38:12,0.545s,PASSED
+"navigateToUrl(""https://www.bk.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:12,13-10-2024 13:38:13,0.668s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:13,13-10-2024 13:38:13,0.091s,PASSED
+,,,,,,,
+Test Cases/mcdoland,Chrome 130.0.0.0,,,13-10-2024 13:38:13,13-10-2024 13:38:16,2.759s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:13,13-10-2024 13:38:14,0.619s,PASSED
+"navigateToUrl(""https://www.mcdonalds.com/us/en-us.html"")",Chrome 130.0.0.0,,,13-10-2024 13:38:14,13-10-2024 13:38:16,1.950s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:16,13-10-2024 13:38:16,0.129s,PASSED
+,,,,,,,
+Test Cases/wow momo,Chrome 130.0.0.0,,,13-10-2024 13:38:16,13-10-2024 13:38:20,4.288s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:16,13-10-2024 13:38:17,0.802s,PASSED
+"navigateToUrl(""https://www.wowmomo.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:17,13-10-2024 13:38:20,3.292s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:20,13-10-2024 13:38:20,0.146s,PASSED
+,,,,,,,
+Test Cases/pharmeasy,Chrome 130.0.0.0,,,13-10-2024 13:38:20,13-10-2024 13:38:22,1.713s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:20,13-10-2024 13:38:21,0.844s,PASSED
+"navigateToUrl(""https://pharmeasy.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:21,13-10-2024 13:38:22,0.711s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:22,13-10-2024 13:38:22,0.105s,PASSED
+,,,,,,,
+Test Cases/Applo,Chrome 130.0.0.0,,,13-10-2024 13:38:22,13-10-2024 13:38:26,3.761s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:22,13-10-2024 13:38:23,0.811s,PASSED
+"navigateToUrl(""https://www.apollopharmacy.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:23,13-10-2024 13:38:25,2.705s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:25,13-10-2024 13:38:26,0.206s,PASSED
+,,,,,,,
+Test Cases/nedmeds,Chrome 130.0.0.0,,,13-10-2024 13:38:26,13-10-2024 13:38:32,5.941s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:26,13-10-2024 13:38:26,0.671s,PASSED
+"navigateToUrl(""https://www.netmeds.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:26,13-10-2024 13:38:32,5.098s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:32,13-10-2024 13:38:32,0.122s,PASSED
+,,,,,,,
+Test Cases/1mg,Chrome 130.0.0.0,,,13-10-2024 13:38:32,13-10-2024 13:38:36,4.479s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:32,13-10-2024 13:38:32,0.771s,PASSED
+"navigateToUrl(""https://www.1mg.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:32,13-10-2024 13:38:36,3.497s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:36,13-10-2024 13:38:36,0.181s,PASSED
+,,,,,,,
+Test Cases/pcinicin,Chrome 130.0.0.0,,,13-10-2024 13:38:36,13-10-2024 13:38:39,2.753s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:36,13-10-2024 13:38:37,0.733s,PASSED
+"navigateToUrl(""https://www.pci.nic.in/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:37,13-10-2024 13:38:39,1.822s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:39,13-10-2024 13:38:39,0.138s,PASSED
+,,,,,,,
+Test Cases/mdpicom,Chrome 130.0.0.0,,,13-10-2024 13:38:39,13-10-2024 13:38:46,6.808s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:39,13-10-2024 13:38:40,0.688s,PASSED
+"navigateToUrl(""https://www.mdpi.com/journal/pharmacy"")",Chrome 130.0.0.0,,,13-10-2024 13:38:40,13-10-2024 13:38:46,5.963s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:46,13-10-2024 13:38:46,0.121s,PASSED
+,,,,,,,
+Test Cases/medplusmartcom,Chrome 130.0.0.0,,,13-10-2024 13:38:46,13-10-2024 13:38:47,1.567s,PASSED
+"openBrowser("""")",Chrome 130.0.0.0,,,13-10-2024 13:38:46,13-10-2024 13:38:46,0.749s,PASSED
+"navigateToUrl(""https://www.medplusmart.com/"")",Chrome 130.0.0.0,,,13-10-2024 13:38:46,13-10-2024 13:38:47,0.727s,PASSED
+closeBrowser(),Chrome 130.0.0.0,,,13-10-2024 13:38:47,13-10-2024 13:38:47,0.065s,PASSED

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="website" time="16.731" tests="4" failures="0" errors="0">
+   <testsuite name="website" tests="4" failures="0" errors="0" time="16.731" skipped="0" timestamp="13-10-2024T12:48:08" hostname="Rohit Roy - DESKTOP-40FUI3F" id="Test Suites/website">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241013_124805\\website\\20241013_124806"/>
+         <property name="logFiles" value="C:\\Users\\Rohit Roy\\git\\Katalon-Project\\Reports\\20241013_124805\\website\\20241013_124806\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Rohit Roy - DESKTOP-40FUI3F"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.7.2.223"/>
+         <property name="browser" value="Chrome 130.0.0.0"/>
+         <property name="hostAddress" value="192.168.29.56"/>
+         <property name="sessionId" value="80a2ad306c2ae0c2b22470d55df1048d"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amzon" time="4.117" classname="Test Cases/Amzon" status="PASSED">
+         <system-out><![CDATA[13-10-2024T12:48:08 - [TEST_CASE][PASSED] - Test Cases/Amzon: Test Cases/Amzon
+
+13-10-2024T12:48:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T12:48:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T12:48:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T12:48:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T12:48:10 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.in/"): Navigate to 'https://www.amazon.in/' successfully
+
+13-10-2024T12:48:11 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.in/' successfully
+
+13-10-2024T12:48:11 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in"), ".in"): Actual text and expected text of test object 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' are matched.
+
+13-10-2024T12:48:12 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_Online Shopping site in India Shop Onl_10c5f3/a_in' are matched.
+
+13-10-2024T12:48:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T12:48:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Youtube" time="5.204" classname="Test Cases/Youtube" status="PASSED">
+         <system-out><![CDATA[13-10-2024T12:48:12 - [TEST_CASE][PASSED] - Test Cases/Youtube: Test Cases/Youtube
+
+13-10-2024T12:48:12 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T12:48:12 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T12:48:12 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T12:48:13 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T12:48:13 - [TEST_STEP][PASSED] - navigateToUrl("https://www.youtube.com/"): Navigate to 'https://www.youtube.com/' successfully
+
+13-10-2024T12:48:15 - [MESSAGE][PASSED] - Navigate to 'https://www.youtube.com/' successfully
+
+13-10-2024T12:48:15 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_YouTube/div"), ""): Actual text and expected text of test object 'Object Repository/Page_YouTube/div' are matched.
+
+13-10-2024T12:48:17 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_YouTube/div' are matched.
+
+13-10-2024T12:48:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T12:48:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/goibibo" time="5.03" classname="Test Cases/goibibo" status="PASSED">
+         <system-out><![CDATA[13-10-2024T12:48:17 - [TEST_CASE][PASSED] - Test Cases/goibibo: Test Cases/goibibo
+
+13-10-2024T12:48:17 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T12:48:17 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T12:48:17 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T12:48:18 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T12:48:18 - [TEST_STEP][PASSED] - navigateToUrl("https://www.goibibo.com/"): Navigate to 'https://www.goibibo.com/' successfully
+
+13-10-2024T12:48:21 - [MESSAGE][PASSED] - Navigate to 'https://www.goibibo.com/' successfully
+
+13-10-2024T12:48:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f")): Object: 'Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f' is clicked on
+
+13-10-2024T12:48:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Goibibo - Best Travel Website. Book Ho_c2e78c/span_Daily Steal Deals  Special Discounts_l_c0692f' is clicked on
+
+13-10-2024T12:48:22 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T12:48:22 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/railyatri" time="2.276" classname="Test Cases/railyatri" status="PASSED">
+         <system-out><![CDATA[13-10-2024T12:48:22 - [TEST_CASE][PASSED] - Test Cases/railyatri: Test Cases/railyatri
+
+13-10-2024T12:48:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+13-10-2024T12:48:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+13-10-2024T12:48:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+13-10-2024T12:48:23 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+13-10-2024T12:48:23 - [TEST_STEP][PASSED] - navigateToUrl("https://www.railyatri.in/"): Navigate to 'https://www.railyatri.in/' successfully
+
+13-10-2024T12:48:25 - [MESSAGE][PASSED] - Navigate to 'https://www.railyatri.in/' successfully
+
+13-10-2024T12:48:25 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+13-10-2024T12:48:25 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[13-10-2024T12:48:08 - [TEST_SUITE][PASSED] - website: Test Cases/railyatri]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

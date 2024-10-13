@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_NOT NOW</name>
+   <tag></tag>
+   <elementGuidId>d9555514-ffc2-4a2e-b36c-50f48a8521d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='pushDenied']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pushDenied</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;NOT NOW&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f9403b40-ead3-4675-bbf3-8fe8a423b493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pushDenied</value>
+      <webElementGuid>c1cb27bd-8cac-4832-ad44-fa537acf8758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn col-xs-8 btn-line-skyblue push-deny</value>
+      <webElementGuid>f5a87532-a382-49b3-b69a-af014e8c2880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>NOT NOW</value>
+      <webElementGuid>12765c42-255e-4d44-b5b2-35d771d57559</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pushDenied&quot;)</value>
+      <webElementGuid>31d8db32-42a3-4f15-bf6b-c7a32f033a02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='pushDenied']</value>
+      <webElementGuid>3658db7c-f7e6-438d-8519-9376ff5222b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We would like to send you awesome offers!'])[1]/following::button[1]</value>
+      <webElementGuid>5106008e-6777-4e1a-8734-c5734c5ea992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow'])[1]/preceding::button[1]</value>
+      <webElementGuid>24a2e6f0-6dde-45b9-af10-cbc2bd1b1476</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='v2'])[1]/preceding::button[2]</value>
+      <webElementGuid>77c5f649-b269-42a7-be86-fc7d8623c70e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='NOT NOW']/parent::*</value>
+      <webElementGuid>782b8da7-868b-4784-bfa4-b0a60ff26ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>e628e7eb-fcf7-4171-8775-071a36985d26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'pushDenied' and (text() = 'NOT NOW' or . = 'NOT NOW')]</value>
+      <webElementGuid>96c2c2a4-f195-4b84-b51b-81f7dfc58040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
